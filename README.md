@@ -44,15 +44,6 @@ I craft intelligent systems and refined digital experiences with an Apple‑grad
 
 ---
 
-## 🍏 **Apple‑Inspired Aesthetic Philosophy**
-
-> *"Perfection isn't when there's nothing left to add, it's when there's nothing left to remove."*
-
-My development style mirrors Apple's design philosophy — **minimal surfaces, deep functionality, smooth experiences**.
-I build systems that feel *quiet*, *powerful*, and *human‑centric*.
-
----
-
 ## 📦 **Highlighted Projects**
 
 ### **🔹 SERA — Smart Everyday Routine Assistant**
