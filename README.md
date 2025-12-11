@@ -1,13 +1,13 @@
 # **Aditya Dagar**
 
-> **AI/ML Developer • Software Engineer • Systems Designer**
-> *Minimal. Precise. Apple‑like.*
+> **AI/ML Developer • Software Engineer • Computer Science Undergrad**
+> *Minimal. Precise.*
 
 ---
 
 ## 🚀 **About Me**
 
-I craft intelligent systems and refined digital experiences with an Apple‑grade focus on clarity, intention, and elegance. My work blends **AI/ML**, **software engineering**, and **design minimalism** to build tools that genuinely enhance human workflow.
+I craft intelligent systems and refined digital experiences with an focus on clarity, intention, and elegance. My work blends **AI/ML**, **software engineering**, and **design minimalism** to build tools that genuinely enhance human workflow.
 
 ---
 
@@ -38,7 +38,7 @@ I craft intelligent systems and refined digital experiences with an Apple‑grad
 
 * Articulate communication & structured thinking
 * Rapid learning across domains
-* Apple‑grade design sense: clean, quiet, intentional
+* Minimalist design sense: clean, quiet, intentional
 * AI + automation + backend systems
 * Building product‑aligned software with purpose
 
