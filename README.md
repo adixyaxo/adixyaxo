@@ -1,7 +1,7 @@
 # **Aditya Dagar**
 
 > **AI/ML Developer • Software Engineer • Computer Science Undergrad**
-> *-->Minimal. Precise.*
+> * -- Minimal. Precise.*
 
 ---
 
