@@ -82,6 +82,8 @@ Early explorations into software for neural-interface‑ready systems.
 <a href="https://github.com/adixyaxo"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
 <a href="https://x.com/adixyaxo"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
 <a href="mailto:aditya@mail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
+</p>
+<p>
 <a href="https://www.youtube.com/@adixyaxo"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
