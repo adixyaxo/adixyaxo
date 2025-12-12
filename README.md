@@ -1,11 +1,4 @@
-<!-- Hero Section -->
-
-<h1 align="center">Aditya Dagar</h1>
-<p align="center"><b>AI/ML Software Developer</b></p>
-
----
-
-# **Ladies and Gentlemen**
+# **Aditya Dagar**
 
 > *I design intelligent systems with clarity, minimalism, intentionality, and deeply functionality.*
 
