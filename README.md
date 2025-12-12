@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 **Who I Am ?**
+## 🚀 **Who Am I?**
 
 I am an AI/ML-focused Computer Science Engineering Undergrad who blends advanced computational thinking with clean, minimal product design. My work explores the intersection of **deep learning**, **mathematical modeling**, and **human-centered system design**. I build intelligent systems that feel precise, intentional, and structurally elegant — philosophy of simplicity with depth.
 
