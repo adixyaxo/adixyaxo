@@ -1,19 +1,19 @@
 <!-- Hero Section -->
 
-<h1 align="center">✨ Hello, I'm <span style='color:#00E5FF;'>Aditya</span> 👋</h1>
+<h1 align="center">Aditya Dagar</h1>
 <p align="center"><b>AI/ML Software Developer</b></p>
 
 ---
 
-# **Aditya Dagar**
+# **Ladies and Gentlemen**
 
-> *I design intelligent systems with Apple‑like clarity — minimal, intentional, and deeply functional.*
+> *I design intelligent systems with clarity, minimalism, intentionality, and deeply functionality.*
 
 ---
 
-## 🚀 **Who I Am**
+## 🚀 **Who I Am ?**
 
-I am an AI/ML-focused engineer who blends advanced computational thinking with clean, minimal product design. My work explores the intersection of **deep learning**, **mathematical modeling**, and **human-centered system design**. I build intelligent systems that feel precise, intentional, and structurally elegant — much like Apple’s philosophy of simplicity with depth.
+I am an AI/ML-focused Computer Science Engineering Undergrad who blends advanced computational thinking with clean, minimal product design. My work explores the intersection of **deep learning**, **mathematical modeling**, and **human-centered system design**. I build intelligent systems that feel precise, intentional, and structurally elegant — philosophy of simplicity with depth.
 
 I specialize in crafting:
 
@@ -24,7 +24,7 @@ I specialize in crafting:
 
 ---
 
-## 🧩 **AI, Engineering & Tech Stack****
+## 🧩 **Tech Stack****
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nextjs,flask,fastapi,nodejs,express,tailwind,linux&theme=dark"/>
@@ -36,14 +36,14 @@ I specialize in crafting:
 
 * Strong foundations in **machine learning**, **neural networks**, and **applied AI**
 * High-level understanding of **calculus**, **linear algebra**, **probability**, and **optimization**
-* Conceptual and applied knowledge in **classical physics**, **mechanics**, and **electromagnetism**
+* Conceptual and applied knowledge in **quantum physics**
 * Ability to translate complex math into elegant, efficient systems
 * Clean, intentional design aligned with functional clarity
 * Rapid cross-domain learning and articulate technical communication
 
 ---
 
-## 🍏 **Design Ethos — Apple Minimalism**
+## 🍏 **Design Ethos — Minimalism**
 
 > *“Elegance is not the abundance of simplicity. It is the absence of noise.”*
 
@@ -89,6 +89,7 @@ Early explorations into software for neural-interface‑ready systems.
 <a href="https://github.com/adixyaxo"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
 <a href="https://x.com/adixyaxo"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
 <a href="mailto:aditya@mail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
+<a href="https://www.youtube.com/@adixyaxo"><img src="https://skillicons.dev/icons?i=youtube&theme=dark"/></a>
 </p>
 
 ---
