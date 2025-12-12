@@ -3,10 +3,6 @@
 <h1 align="center">✨ Hello, I'm <span style='color:#00E5FF;'>Aditya</span> 👋</h1>
 <p align="center"><b>AI/ML Software Developer</b></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-</p>
-
 ---
 
 # **Aditya Dagar**
