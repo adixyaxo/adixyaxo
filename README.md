@@ -1,85 +1,100 @@
+<!-- Hero Section -->
+
+<h1 align="center">✨ Hello, I'm <span style='color:#00E5FF;'>Aditya</span> 👋</h1>
+<p align="center"><b>AI/ML Software Developer</b></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+</p>
+
+---
+
 # **Aditya Dagar**
 
-> **AI/ML Developer • Software Engineer • Computer Science Undergrad**
-> *Minimal. Precise.*
+> *I design intelligent systems with Apple‑like clarity — minimal, intentional, and deeply functional.*
 
 ---
 
-## 🚀 **About Me**
+## 🚀 **Who I Am**
 
-I craft intelligent systems and refined digital experiences with an focus on clarity, intention, and elegance. My work blends **AI/ML**, **software engineering**, and **design minimalism** to build tools that genuinely enhance human workflow.
+I am an AI/ML-focused engineer who blends advanced computational thinking with clean, minimal product design. My work explores the intersection of **deep learning**, **mathematical modeling**, and **human-centered system design**. I build intelligent systems that feel precise, intentional, and structurally elegant — much like Apple’s philosophy of simplicity with depth.
 
----
+I specialize in crafting:
 
-## 🛠️ **Tech Stack & Badges**
-
-<div style="display:flex; gap:6px; flex-wrap:wrap;">
-
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
-
-</div>
+* Machine learning systems that reason, adapt, and generalize
+* AI-powered productivity and automation frameworks
+* Mathematical and algorithmic backbones for intelligent software
+* High-performance backend architectures for scalable AI
 
 ---
 
-## 🧠 **Core Strengths**
+## 🧩 **AI, Engineering & Tech Stack****
 
-* Articulate communication & structured thinking
-* Rapid learning across domains
-* Minimalist design sense: clean, quiet, intentional
-* AI + automation + backend systems
-* Building product‑aligned software with purpose
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nextjs,flask,fastapi,nodejs,express,tailwind,linux&theme=dark"/>
+</p>
 
 ---
 
-## 📦 **Highlighted Projects**
+## 🧠 **My Core Strengths**
 
-### **🔹 SERA — Smart Everyday Routine Assistant**
-
-A voice‑controlled personal operating system for routines, productivity, and automation.
-
-* Dynamic scheduling, GTD logic, habit analytics
-* AI‑powered micro‑adjustments
-* Cross‑platform integrations
-
----
-
-### **🔹 MAY — Modular AI System**
-
-A multi‑module AI tool featuring voice, NLP, automation, and custom assistants.
-
-* Layered architecture (core, modules, integrations)
-* Built for scalability and experimentation
+* Strong foundations in **machine learning**, **neural networks**, and **applied AI**
+* High-level understanding of **calculus**, **linear algebra**, **probability**, and **optimization**
+* Conceptual and applied knowledge in **classical physics**, **mechanics**, and **electromagnetism**
+* Ability to translate complex math into elegant, efficient systems
+* Clean, intentional design aligned with functional clarity
+* Rapid cross-domain learning and articulate technical communication
 
 ---
 
-### **🔹 Neurolink‑Inspired BCI Tools (Research)**
+## 🍏 **Design Ethos — Apple Minimalism**
 
-Exploring how software can interact with neural interfaces.
+> *“Elegance is not the abundance of simplicity. It is the absence of noise.”*
 
-* AI/ML + neuro‑signal decoding concepts
-* Data‑driven frameworks for BCI‑aligned systems
-
----
+I build experiences that feel **quiet**, **refined**, and **meaningful** — prioritizing clarity, sense of space, and functional depth.
 
 ---
 
-## 📫 **Let’s Connect**
+## 📦 **Featured Projects**
 
-If your work aligns with **innovation, minimalism, or AI‑driven systems**, I’m open to collaborating.
+### 🔹 **SERA — Smart Everyday Routine Assistant**
+
+An AI-powered LifeOS for routines, automation, and decision assistance.
+
+* Dynamic planning
+* GTD-inspired structure
+* Adaptive AI micro‑adjustments
 
 ---
 
-### **Designed with intention. Built with clarity.**
+### 🔹 **MAY — Modular AI System**
+
+A multi-module AI framework combining voice, NLP, automations, and intelligent agents.
+
+* Modular architecture
+* Experiment‑friendly core
+* Built for scale & iteration
+
+---
+
+### 🔹 **Neuralink‑Inspired BCI Research Tools**
+
+Early explorations into software for neural-interface‑ready systems.
+
+* AI/ML decoding concepts
+* Signal-processing experiments
+* Human‑machine interaction models
+
+---
+
+## 📫 **Reach Out**
+
+<p align="center">
+<a href="https://github.com/adixyaxo"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
+<a href="https://x.com/adixyaxo"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
+<a href="mailto:aditya@mail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
+</p>
+
+---
+
+<p align="center"><b>✨ Designed with intention. Built with clarity. ✨</b></p>
