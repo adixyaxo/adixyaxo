@@ -66,7 +66,7 @@ A multi-module AI framework combining voice, NLP, automations, and intelligent a
 
 ---
 
-<h1 align = "centre" >*Looking towards building few hardware solutions also*</h1>
+<p align = "centre" >* Looking towards building few hardware solutions also *</p>
 
 ## 📫 **Reach Out**
 
