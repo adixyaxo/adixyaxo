@@ -66,15 +66,7 @@ A multi-module AI framework combining voice, NLP, automations, and intelligent a
 
 ---
 
-### 🔹 **Neuralink‑Inspired BCI Research Tools**
-
-Early explorations into software for neural-interface‑ready systems.
-
-* AI/ML decoding concepts
-* Signal-processing experiments
-* Human‑machine interaction models
-
----
+<h1 align = "centre" >*Looking towards building few hardware solutions also*</h1>
 
 ## 📫 **Reach Out**
 
