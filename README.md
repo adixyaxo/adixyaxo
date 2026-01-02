@@ -1,4 +1,4 @@
-# **Aditya Dagar** [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846)](https://codetime.dev)
+# **Aditya Dagar** [![CodeTime Badge] align ="right"(https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846)](https://codetime.dev)
 
 > *I design intelligent systems with clarity, minimalism, intentionality, and deeply functionality.*
 
