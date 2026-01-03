@@ -17,7 +17,7 @@ I specialize in crafting:
 
 ---
 
-## 🧩 **Tech Stack****
+## 🧩 **Tech Stack**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,flask,fastapi,tailwind,linux&theme=dark"/>
