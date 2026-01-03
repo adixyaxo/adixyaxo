@@ -12,19 +12,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
-
-<a href="https://github.com/adixyaxo">
-  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=adixyaxo&theme=react" alt="Aditya's Activity Graph" />
-</a>
-
-<br/>
-
-<a href="https://github.com/adixyaxo">
-  <img height = "180" src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</a>
-</div>
-
 ---
 
 ## 🚀 **Who Am I?**
