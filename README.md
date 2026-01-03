@@ -20,14 +20,9 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/adixyaxo">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/adixyaxo">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adixyaxo&layout=compact&theme=radical" />
-  </a>
-</p>
+<a href="https://github.com/adixyaxo">
+  <img src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=radical" alt="GitHub Stats" />
+</a>
 </div>
 
 ---
