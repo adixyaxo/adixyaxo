@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/adixyaxo">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adixyaxo&theme=react" alt="Aditya's Activity Graph" />
+  <img height=500 width=1000 src="https://github-readme-activity-graph.vercel.app/graph?username=adixyaxo&theme=react" alt="Aditya's Activity Graph" />
 </a>
 
 <br/>
@@ -28,13 +28,6 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adixyaxo&layout=compact&theme=radical" />
   </a>
 </p>
-
-<br/>
-
-<a href="https://leetcode.com/adixyaxo/">
-  <img height="180" src="https://leetcard.jacoblin.cool/aditya0dagar?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
-</a>
-
 </div>
 
 ---
