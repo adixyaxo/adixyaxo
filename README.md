@@ -3,9 +3,30 @@
 > *I design intelligent systems with clarity, minimalism, intentionality, and deeply functionality.*
 
 ---
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?adixyaxo&theme=react)](https://github.com/adixyaxo/github-readme-activity-graph)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?adixyaxo&show_icons=true&theme=radical)](https://github.com/adixyaxo/github-readme-stats)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/adixyaxo?theme=dark&font=baloo&ext=heatmap)](https://github.com/adixyaxo/LeetCode-Stats-Card)
+<div align="center">
+
+<a href="https://github.com/adixyaxo">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adixyaxo&theme=react" alt="Aditya's Activity Graph" />
+</a>
+
+<br/>
+
+<a href="https://github.com/adixyaxo">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=radical" alt="GitHub Stats" />
+</a>
+<a href="https://leetcode.com/adixyaxo/">
+  <img height="180" src="https://leetcard.jacoblin.cool/adixyaxo?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 ## 🚀 **Who Am I?**
 
 I am an AI/ML-focused Computer Science Engineering Undergrad who blends advanced computational thinking with clean, minimal product design. My work explores the intersection of **deep learning**, **mathematical modeling**, and **human-centered system design**. I build intelligent systems that feel precise, intentional, and structurally elegant — philosophy of simplicity with depth.
