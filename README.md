@@ -20,14 +20,23 @@
 
 <br/>
 
-<a href="https://github.com/adixyaxo">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/adixyaxo">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/adixyaxo">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adixyaxo&layout=compact&theme=radical" />
+  </a>
+</p>
+
+<br/>
+
 <a href="https://leetcode.com/adixyaxo/">
   <img height="180" src="https://leetcard.jacoblin.cool/aditya0dagar?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
 </div>
+
 ---
 
 ## 🚀 **Who Am I?**
