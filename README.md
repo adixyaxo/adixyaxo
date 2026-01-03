@@ -15,13 +15,13 @@
 <br/>
 
 <a href="https://github.com/adixyaxo">
-  <img height=500 width=1000 src="https://github-readme-activity-graph.vercel.app/graph?username=adixyaxo&theme=react" alt="Aditya's Activity Graph" />
+  <img height="500" width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=adixyaxo&theme=react" alt="Aditya's Activity Graph" />
 </a>
 
 <br/>
 
 <a href="https://github.com/adixyaxo">
-  <img src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height = "180" src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=radical" alt="GitHub Stats" />
 </a>
 </div>
 
