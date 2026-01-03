@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/adixyaxo">
-  <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=adixyaxo&theme=react" alt="Aditya's Activity Graph" />
+  <img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=adixyaxo&theme=react" alt="Aditya's Activity Graph" />
 </a>
 
 <br/>
