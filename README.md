@@ -78,6 +78,16 @@ A multi-module AI framework combining voice, NLP, automations, and intelligent a
 
 ---
 
+### 🔹 **100 Mini Projects**
+
+A dedicated repository for rapid-fire coding drills and algorithmic mastery.
+
+* Python-centric foundations
+* Rapid prototyping & logic building
+* Compounding technical muscle memory
+
+---
+
 > *Looking towards building few hardware solutions also.*
 
 ## 📫 **Reach Out**
