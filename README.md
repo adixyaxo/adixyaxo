@@ -34,7 +34,17 @@ I specialize in crafting:
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,flask,fastapi,tailwind,linux&theme=dark"/>
 </p>
 
-## ⏳ **Weekly Coding Activity** '<!--START_SECTION:waka-->[\s\S]+<!--END_SECTION:waka-->`
+## ⏳ **Weekly Coding Activity** '<!--START_SECTION:waka-->
+
+```python
+From: 27 December 2025 - To: 03 January 2026
+
+Python   3 hrs 56 mins   █████████████████████████   99.82 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
+<!--END_SECTION:waka-->`
 ---
 
 ## 🧠 **My Core Strengths**
