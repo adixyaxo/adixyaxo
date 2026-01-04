@@ -34,7 +34,7 @@ I specialize in crafting:
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,flask,fastapi,tailwind,linux&theme=dark"/>
 </p>
 
-## ⏳ **Weekly Coding Activity**
+## ⏳ **Weekly Coding Activity** '<!--START_SECTION:waka-->[\s\S]+<!--END_SECTION:waka-->`
 ---
 
 ## 🧠 **My Core Strengths**
