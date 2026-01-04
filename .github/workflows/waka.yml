@@ -21,4 +21,4 @@ jobs:
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TIME: true
-          TARGET_PATH: "adixyaxo.md" # 👈 Make sure this matches your file
+          TARGET_PATH: "README.md" # 👈 Make sure this matches your file
