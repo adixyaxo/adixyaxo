@@ -20,3 +20,5 @@ jobs:
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TIME: true
+          # 👇 ADD THIS LINE BELOW
+          README_FILE: "adixyaxo.md"
