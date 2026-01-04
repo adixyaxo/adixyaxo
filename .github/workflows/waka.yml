@@ -1,24 +1,12 @@
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12 AM UTC every day
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run it manually to test
-
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
+- uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
           CODE_LANG: python
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TIME: true
-          # 👇 ADD THIS LINE BELOW
-          README_FILE: "adixyaxo.md"
+          # 👇 This is the fixed line:
+          TARGET_PATH: "adixyaxo.md"
