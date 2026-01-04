@@ -1,5 +1,4 @@
-# **Aditya Dagar** 
-<img align="right" href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846">
+# **Aditya Dagar** <img align="right" href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846">
 
 > *I design intelligent systems with clarity, minimalism, intentionality, and deeply functionality.*
 
@@ -35,6 +34,7 @@ I specialize in crafting:
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,flask,fastapi,tailwind,linux&theme=dark"/>
 </p>
 
+## ⏳ **Weekly Coding Activity**
 ---
 
 ## 🧠 **My Core Strengths**
