@@ -38,12 +38,12 @@ I specialize in crafting:
 ## ⏳ **Weekly Coding Activity** <!--START_SECTION:waka-->
 
 ```python
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-C++          1 hr 47 mins          ██████████████████░░░░░░░   72.17 %
-Git Config   24 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-Bash         12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Markdown     3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+C++          2 hrs 22 mins         ███████████████████▓░░░░░   79.02 %
+Git Config   24 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
+Bash         12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
