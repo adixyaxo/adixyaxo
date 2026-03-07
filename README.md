@@ -38,7 +38,7 @@ I specialize in crafting:
 ## ⏳ **Weekly Coding Activity** <!--START_SECTION:waka-->
 
 ```python
-From: 26 February 2026 - To: 05 March 2026
+From: 27 February 2026 - To: 06 March 2026
 
 C++        1 hr 8 mins           ██████████████████░░░░░░░   72.45 %
 Markdown   25 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
