@@ -1,118 +1,124 @@
-# **Aditya Dagar** 
+Aditya Dagar
+
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846"> </br>
 
-> *I design intelligent systems with clarity, minimalism, intentionality, and deeply functionality.*
+> I design intelligent systems with clarity, minimalism, and deep functionality.
+
+
+
 
 ---
-<div align="center">
 
-<picture>
+<div align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
-</picture>
+</picture></div>
+---
 
-</div>
+🚀 Who Am I?
+
+AI/ML-focused Computer Science undergrad building systems at the intersection of intelligence, mathematics, and clean design.
+
+I focus on creating software that is:
+
+Structurally elegant
+
+Functionally precise
+
+Minimal yet powerful
+
+
 
 ---
 
-## 🚀 **Who Am I?**
-
-I am an AI/ML-focused Computer Science Engineering Undergrad who blends advanced computational thinking with clean, minimal product design. My work explores the intersection of **deep learning**, **mathematical modeling**, and **human-centered system design**. I build intelligent systems that feel precise, intentional, and structurally elegant — philosophy of simplicity with depth.
-
-I specialize in crafting:
-
-* Machine learning systems that reason, adapt, and generalize
-* AI-powered productivity and automation frameworks
-* Mathematical and algorithmic backbones for intelligent software
-* High-performance backend architectures for scalable AI
-
----
-
-## 🧩 **Tech Stack**
+🧩 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,flask,fastapi,tailwind,linux&theme=dark"/>
 </p>
-
-## ⏳ **Weekly Coding Activity** <!--START_SECTION:waka-->
-
-```python
-From: 16 March 2026 - To: 23 March 2026
-
-C++          2 hrs 1 min           ███████████████████░░░░░░   76.41 %
-HTML         30 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
-JavaScript   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-CMake        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-```
-
-<!--END_SECTION:waka-->
 ---
 
-## 🧠 **My Core Strengths**
+🧠 Core Strengths
 
-* Strong foundations in **machine learning**, **neural networks**, and **applied AI**
-* High-level understanding of **calculus**, **linear algebra**, **probability**, and **optimization**
-* Conceptual and applied knowledge in **quantum physics**
-* Ability to translate complex math into elegant, efficient systems
-* Clean, intentional design aligned with functional clarity
-* Rapid cross-domain learning and articulate technical communication
+Machine Learning & Neural Networks
+
+Mathematical Foundations (Calculus, Linear Algebra, Probability)
+
+Algorithmic Thinking & System Design
+
+Backend Engineering for AI Systems
+
+Rapid Learning & Clear Technical Communication
+
+
 
 ---
 
-## 🍏 **Design Ethos — Minimalism**
+🍏 Design Philosophy
 
-> *“Elegance is not the abundance of simplicity. It is the absence of noise.”*
+> "Elegance is the absence of noise."
 
-I build experiences that feel **quiet**, **refined**, and **meaningful** — prioritizing clarity, sense of space, and functional depth.
 
----
 
-## 📦 **Featured Projects**
+I build experiences that feel quiet, refined, and intentional — where every component serves a purpose.
 
-### 🔹 **SERA — Smart Everyday Routine Assistant**
-
-An AI-powered LifeOS for routines, automation, and decision assistance.
-
-* Dynamic planning
-* GTD-inspired structure
-* Adaptive AI micro‑adjustments
 
 ---
 
-### 🔹 **MAY — Modular AI System**
+📦 Projects
 
-A multi-module AI framework combining voice, NLP, automations, and intelligent agents.
+🔹 SERA — Smart Everyday Routine Assistant
 
-* Modular architecture
-* Experiment‑friendly core
-* Built for scale & iteration
+AI-powered LifeOS for routines, automation, and decision-making.
 
----
+Dynamic planning
 
-### 🔹 **100 Mini Projects**
+GTD-inspired workflows
 
-A dedicated repository for rapid-fire coding drills and algorithmic mastery.
+Adaptive AI optimization
 
-* Python-centric foundations
-* Rapid prototyping & logic building
-* Compounding technical muscle memory
+
 
 ---
 
-> *Looking towards building few hardware solutions also.*
+🔹 X-NCU Database System
 
-## 📫 **Reach Out**
+A structured backend system built for managing and scaling university-level data operations.
+
+Efficient data handling & querying
+
+Backend architecture using C++ (Crow framework)
+
+Authentication & system design focus
+
+
+
+---
+
+🔹 100 Mini Projects
+
+A repository focused on rapid iteration and strengthening problem-solving ability.
+
+Python-based implementations
+
+Algorithmic drills
+
+Consistency-driven growth
+
+
+
+---
+
+📫 Connect
 
 <p align="center">
 <a href="https://github.com/adixyaxo"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
 <a href="https://x.com/adixyaxo"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
 <a href="mailto:aditya@mail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
-</p>
-<p align="center">
+</p><p align="center">
 <a href="https://www.youtube.com/@adixyaxo"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
-
 ---
 
-<p align="center"><b>✨ Designed with intention. Built with clarity. ✨</b></p>
+<p align="center"><b>✨ Built with clarity. Designed with intent. ✨</b></
