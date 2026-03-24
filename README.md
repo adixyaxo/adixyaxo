@@ -1,19 +1,17 @@
-Aditya Dagar
-
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846"> </br>
-
-> I design intelligent systems with clarity, minimalism, intentionality, and deep functionality.
-
-
-
-
+<h1 align="center" style="font-family: 'Playfair Display', serif;">Aditya Dagar</h1><p align="center">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846">
+</p><p align="center">
+<i>I design intelligent systems with clarity, minimalism, intentionality, and deep functionality.</i>
+</p>
 ---
 
-<div align="center"><picture>
+<div align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
-</picture></div>
+</picture>
+</div>
 ---
 
 🚀 Who Am I?
@@ -93,7 +91,6 @@ The platform enables students and faculty to share updates, thoughts, and announ
 
 ---
 
-
 🔹 100 Mini Projects
 
 A repository focused on rapid iteration and algorithmic mastery.
@@ -103,6 +100,7 @@ Python-based implementations
 Problem-solving drills
 
 Consistency-driven growth
+
 
 
 ---
