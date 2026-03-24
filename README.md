@@ -3,6 +3,7 @@
 </p><p align="center">
 <i>I design intelligent systems with clarity, minimalism, intentionality, and deep functionality.</i>
 </p>
+
 ---
 
 <div align="center">
@@ -12,6 +13,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
 ---
 
 🚀 Who Am I?
@@ -30,11 +32,13 @@ Minimal yet powerful
 
 ---
 
+
 🧩 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,flask,fastapi,tailwind,linux&theme=dark"/>
 </p>
+
 ---
 
 🧠 Core Strengths
