@@ -2,7 +2,7 @@ Aditya Dagar
 
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846"> </br>
 
-> I design intelligent systems with clarity, minimalism, and deep functionality.
+> I design intelligent systems with clarity, minimalism, intentionality, and deep functionality.
 
 
 
@@ -18,7 +18,7 @@ Aditya Dagar
 
 🚀 Who Am I?
 
-AI/ML-focused Computer Science undergrad building systems at the intersection of intelligence, mathematics, and clean design.
+AI/ML-focused Computer Science Engineering undergrad building systems at the intersection of intelligence, mathematics, and clean design.
 
 I focus on creating software that is:
 
@@ -49,15 +49,15 @@ Algorithmic Thinking & System Design
 
 Backend Engineering for AI Systems
 
-Rapid Learning & Clear Technical Communication
+Rapid Learning & Technical Communication
 
 
 
 ---
 
-🍏 Design Philosophy
+🍏 Design Philosophy — Minimalism
 
-> "Elegance is the absence of noise."
+> "Elegance is not the abundance of simplicity. It is the absence of noise."
 
 
 
@@ -82,30 +82,27 @@ Adaptive AI optimization
 
 ---
 
-🔹 X-NCU Database System
+🔹 X NCU
 
-A structured backend system built for managing and scaling university-level data operations.
+X for The NorthCap University
 
-Efficient data handling & querying
+X-NCU is a Twitter-inspired social networking platform built exclusively for The NorthCap University (NCU) community.
 
-Backend architecture using C++ (Crow framework)
-
-Authentication & system design focus
-
+The platform enables students and faculty to share updates, thoughts, and announcements within a secure, campus-focused environment.
 
 
 ---
 
+
 🔹 100 Mini Projects
 
-A repository focused on rapid iteration and strengthening problem-solving ability.
+A repository focused on rapid iteration and algorithmic mastery.
 
 Python-based implementations
 
-Algorithmic drills
+Problem-solving drills
 
 Consistency-driven growth
-
 
 
 ---
@@ -121,4 +118,4 @@ Consistency-driven growth
 </p>
 ---
 
-<p align="center"><b>✨ Built with clarity. Designed with intent. ✨</b></
+<p align="center"><b>✨ Designed with intention. Built with clarity. ✨</b></p>
