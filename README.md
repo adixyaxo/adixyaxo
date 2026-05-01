@@ -4,215 +4,132 @@
 
 <!-- ========================================= -->
 
-<h1 align="center">ADITYA DAGAR</h1>
+<h1 align="center">Aditya Dagar</h1>
 
 <p align="center">
-  <i>systems • ai • minimal software</i>
+  <i>Systems Programming • AI Engineering • Minimal Software Design</i>
 </p>
 
 ---
 
-<!-- ========================================= -->
+## About
 
-<!--         FAKE SCROLL PROGRESS BAR         -->
+Computer Science Engineering undergraduate focused on building systems that are **efficient, precise, and thoughtfully designed**.
 
-<!-- ========================================= -->
+My work sits at the intersection of:
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:888888&height=6&section=header"/>
-</p>
+* low-level control
+* intelligent systems
+* clean product architecture
 
-<p align="center">
-  <sub>scroll ∎∎∎∎∎∎∎∎∎∎ 100%</sub>
-</p>
+I approach software with a bias toward **performance, clarity, and minimalism**.
 
 ---
 
-<!-- ========================================= -->
+## Core Areas
 
-<!--           CONTRIBUTION VISUAL            -->
-
-<!-- ========================================= -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
-</div>
-
----
-
-<!-- ========================================= -->
-
-<!--               ABOUT (WEB CARD)           -->
-
-<!-- ========================================= -->
-
-## ◼ ABOUT
-
-```txt
-name     : aditya dagar
-role     : computer science engineer
-focus    : systems / ai / product
-style    : minimal / performance-first
-```
-
-I design and build systems that balance **low-level control** with **intelligent behavior**.
-
-The goal is simple:
-make software that feels *fast, silent, and deliberate*.
+* Systems Programming (C / C++)
+* Memory Management & Low-Level Design
+* Machine Learning & AI Systems
+* Backend Architecture
+* Algorithms & Problem Solving
+* Cryptography Engineering
 
 ---
 
-<!-- ========================================= -->
+## Tech Stack
 
-<!--               NAV BAR STYLE              -->
-
-<!-- ========================================= -->
-
-<p align="center">
-  <code>[ about ]</code> • <code>[ stack ]</code> • <code>[ projects ]</code> • <code>[ metrics ]</code> • <code>[ connect ]</code>
-</p>
-
----
-
-<!-- ========================================= -->
-
-<!--               STACK SECTION              -->
-
-<!-- ========================================= -->
-
-## ◼ STACK
-
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nodejs,flask,fastapi,linux,git&theme=dark"/>
 </p>
 
 ---
 
-<!-- ========================================= -->
+## Selected Work
 
-<!--               METRICS (DASHBOARD)        -->
+### Project Crypt
 
-<!-- ========================================= -->
+Cryptography-focused system built with low-level memory control.
 
-## ◼ SYSTEM METRICS
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=aaaaaa&icon_color=888888&text_color=aaaaaa"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=adixyaxo&theme=dark&hide_border=true&background=00000000&stroke=555555&ring=888888&fire=aaaaaa&currStreakLabel=aaaaaa"/>
-</p>
+* Pointer-driven architecture
+* Manual memory management
+* Encryption and transformation logic
+* Performance-oriented implementation
 
 ---
-
-<!-- ========================================= -->
-
-<!--               PROJECT GRID               -->
-
-<!-- ========================================= -->
-
-## ◼ PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-### PROJECT.CRYPT
-
-```txt
-type  : cryptographic system
-lang  : c / c++
-core  : memory + pointers
-```
-
-</td>
-<td width="50%">
 
 ### X-NCU
 
-```txt
-type  : private network
-stack : c++ backend
-core  : auth + feed system
-```
+Private campus social network for The NorthCap University.
 
-</td>
-</tr>
+* C++ backend system
+* Authentication and access control
+* Feed and interaction model
+* Built as a complete product from scratch
 
-<tr>
-<td width="50%">
+---
 
 ### SERA
 
-```txt
-type  : ai system
-core  : workflows + decisions
-```
+AI-powered life operating system for planning and decision support.
 
-</td>
-<td width="50%">
-
-### 100.MODULES
-
-```txt
-type  : execution lab
-core  : speed + consistency
-```
-
-</td>
-</tr>
-</table>
+* Adaptive workflows
+* Intelligent scheduling
+* Minimal, distraction-free interface
 
 ---
 
-<!-- ========================================= -->
+### 100 Mini Projects
 
-<!--               PHILOSOPHY                 -->
+A repository focused on consistency and rapid execution.
 
-<!-- ========================================= -->
-
-## ◼ PHILOSOPHY
-
-```txt
-build with precision
-eliminate noise
-ship only what matters
-```
+* Algorithmic problem solving
+* Python utilities
+* Iterative development practice
 
 ---
 
-<!-- ========================================= -->
+## Strengths
 
-<!--               CURRENT FOCUS              -->
-
-<!-- ========================================= -->
-
-## ◼ CURRENT VECTOR
-
-* advanced mathematics
-* ai systems
-* high-performance computing
-* secure systems
+* Strong foundation in computer science fundamentals
+* Comfortable across low-level and full-stack environments
+* Fast learner with a builder mindset
+* Solid mathematical base (calculus, linear algebra, probability)
+* Focus on clean, maintainable architecture
 
 ---
 
-<!-- ========================================= -->
+## Current Focus
 
-<!--               FOOTER                     -->
+* Advanced Mathematics
+* AI Systems Engineering
+* High Performance Computing
+* Secure Systems Design
+* Computational Research
 
-<!-- ========================================= -->
+---
 
-## ◼ CONNECT
+## Philosophy
 
-<p align="center">
-  <a href="https://github.com/adixyaxo"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
-  <a href="https://x.com/adixyaxo"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
-  <a href="mailto:aditya@mail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
+> Build with precision.
+> Remove the unnecessary.
+> Focus on what matters.
+
+I prefer software that is **quiet, fast, and intentional**.
+
+---
+
+## Connect
+
+<p>
+  <a href="https://github.com/adixyaxo">GitHub</a> •
+  <a href="https://x.com/adixyaxo">Twitter</a> •
+  <a href="mailto:aditya@mail.com">Email</a> •
+  <a href="https://www.youtube.com/@adixyaxo">YouTube</a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>designed like a system • not a profile</sub>
+  <sub>Designed with intention • Built with depth</sub>
 </p>
