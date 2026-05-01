@@ -1,99 +1,86 @@
 <!-- ========================================= -->
 
-<!--           SYSTEM BOOT HEADER              -->
+<!--               HEADER                     -->
 
 <!-- ========================================= -->
 
-<h1 align="center">ADITYA.DAGAR</h1>
+<h1 align="center">ADITYA DAGAR</h1>
 
 <p align="center">
-  <code>booting profile...</code><br>
-  <code>status: active</code><br>
-  <code>mode: minimal / high-performance</code>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&color=8B8B8B&center=true&vCenter=true&lines=systems+programming;ai+engineering;minimal+products;low-level+thinking" />
+  <i>systems • ai • minimal software</i>
 </p>
 
 ---
 
 <!-- ========================================= -->
 
-<!--           VISUAL DIVIDER                  -->
+<!--         FAKE SCROLL PROGRESS BAR         -->
 
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2b2b2b&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:888888&height=6&section=header"/>
+</p>
+
+<p align="center">
+  <sub>scroll ∎∎∎∎∎∎∎∎∎∎ 100%</sub>
 </p>
 
 ---
 
 <!-- ========================================= -->
 
-<!--           CONTRIBUTION VISUAL             -->
+<!--           CONTRIBUTION VISUAL            -->
 
 <!-- ========================================= -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 ---
 
 <!-- ========================================= -->
 
-<!--               ABOUT                      -->
+<!--               ABOUT (WEB CARD)           -->
 
 <!-- ========================================= -->
 
-## ▣ PROFILE
+## ◼ ABOUT
 
+```txt
+name     : aditya dagar
+role     : computer science engineer
+focus    : systems / ai / product
+style    : minimal / performance-first
 ```
-role        : computer science engineer
-focus       : systems / ai / product engineering
-philosophy  : precision > noise
-build style : minimal, fast, intentional
-```
 
-I build software that sits close to the machine while still feeling human.
+I design and build systems that balance **low-level control** with **intelligent behavior**.
 
-From pointer arithmetic to intelligent systems, my work lives at the intersection of:
-
-* raw control
-* mathematical reasoning
-* clean product experience
+The goal is simple:
+make software that feels *fast, silent, and deliberate*.
 
 ---
 
 <!-- ========================================= -->
 
-<!--               CORE DOMAINS               -->
+<!--               NAV BAR STYLE              -->
 
 <!-- ========================================= -->
 
-## ▣ CORE DOMAINS
-
-| domain               | direction                        |
-| -------------------- | -------------------------------- |
-| systems programming  | memory, pointers, performance    |
-| ai & ml              | neural systems, applied learning |
-| backend architecture | scalable + secure systems        |
-| product engineering  | minimal full-stack systems       |
+<p align="center">
+  <code>[ about ]</code> • <code>[ stack ]</code> • <code>[ projects ]</code> • <code>[ metrics ]</code> • <code>[ connect ]</code>
+</p>
 
 ---
 
 <!-- ========================================= -->
 
-<!--               TECH STACK                 -->
+<!--               STACK SECTION              -->
 
 <!-- ========================================= -->
 
-## ▣ STACK
+## ◼ STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nodejs,flask,fastapi,linux,git&theme=dark"/>
@@ -103,82 +90,79 @@ From pointer arithmetic to intelligent systems, my work lives at the intersectio
 
 <!-- ========================================= -->
 
-<!--               SKILL GRAPH                -->
+<!--               METRICS (DASHBOARD)        -->
 
 <!-- ========================================= -->
 
-## ▣ SYSTEM METRICS
+## ◼ SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=aaaaaa&icon_color=888888&text_color=aaaaaa"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=aaaaaa&icon_color=888888&text_color=aaaaaa"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adixyaxo&theme=dark&hide_border=true&background=00000000&stroke=555555&ring=888888&fire=aaaaaa&currStreakLabel=aaaaaa"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=adixyaxo&theme=dark&hide_border=true&background=00000000&stroke=555555&ring=888888&fire=aaaaaa&currStreakLabel=aaaaaa"/>
 </p>
 
 ---
 
 <!-- ========================================= -->
 
-<!--               PROJECTS                   -->
+<!--               PROJECT GRID               -->
 
 <!-- ========================================= -->
 
-## ▣ PROJECT ARCHIVE
+## ◼ PROJECTS
 
-### ◼ PROJECT.CRYPT
+<table>
+<tr>
+<td width="50%">
 
-```
-type    : cryptographic system
-lang    : c / c++
-focus   : memory-level control
-```
+### PROJECT.CRYPT
 
-* manual memory management
-* pointer-intensive architecture
-* encryption pipelines
-* performance-first design
-
----
-
-### ◼ X-NCU
-
-```
-type    : private social network
-model   : university ecosystem
+```txt
+type  : cryptographic system
+lang  : c / c++
+core  : memory + pointers
 ```
 
-* c++ backend system
-* authentication layer
-* feed engine
-* isolated network architecture
+</td>
+<td width="50%">
 
----
+### X-NCU
 
-### ◼ SERA
-
-```
-type    : ai operating system
-focus   : productivity + cognition
+```txt
+type  : private network
+stack : c++ backend
+core  : auth + feed system
 ```
 
-* adaptive workflows
-* intelligent scheduling
-* minimal interface design
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-### ◼ 100.MODULES
+### SERA
 
+```txt
+type  : ai system
+core  : workflows + decisions
 ```
-type    : rapid execution repository
-goal    : consistency + mastery
+
+</td>
+<td width="50%">
+
+### 100.MODULES
+
+```txt
+type  : execution lab
+core  : speed + consistency
 ```
 
-* algorithm drills
-* python utilities
-* fast iteration cycles
+</td>
+</tr>
+</table>
 
 ---
 
@@ -188,42 +172,38 @@ goal    : consistency + mastery
 
 <!-- ========================================= -->
 
-## ▣ PHILOSOPHY
+## ◼ PHILOSOPHY
 
-```
+```txt
 build with precision
-remove everything unnecessary
-leave only what matters
+eliminate noise
+ship only what matters
 ```
-
-Software should feel like silence:
-fast, intentional, and invisible until needed.
 
 ---
 
 <!-- ========================================= -->
 
-<!--           CURRENT VECTOR                 -->
+<!--               CURRENT FOCUS              -->
 
 <!-- ========================================= -->
 
-## ▣ CURRENT VECTOR
+## ◼ CURRENT VECTOR
 
 * advanced mathematics
-* ai systems engineering
+* ai systems
 * high-performance computing
-* secure system design
-* computational research
+* secure systems
 
 ---
 
 <!-- ========================================= -->
 
-<!--               CONNECT                    -->
+<!--               FOOTER                     -->
 
 <!-- ========================================= -->
 
-## ▣ LINK
+## ◼ CONNECT
 
 <p align="center">
   <a href="https://github.com/adixyaxo"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
@@ -234,5 +214,5 @@ fast, intentional, and invisible until needed.
 ---
 
 <p align="center">
-  <code>system.out.println("designed with intention • built with depth");</code>
+  <sub>designed like a system • not a profile</sub>
 </p>
