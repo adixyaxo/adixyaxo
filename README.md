@@ -1,153 +1,238 @@
-<h1 align="center">Aditya Dagar</h1>
+<!-- ========================================= -->
+
+<!--           SYSTEM BOOT HEADER              -->
+
+<!-- ========================================= -->
+
+<h1 align="center">ADITYA.DAGAR</h1>
 
 <p align="center">
-<img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846">
+  <code>booting profile...</code><br>
+  <code>status: active</code><br>
+  <code>mode: minimal / high-performance</code>
 </p>
 
 <p align="center">
-<i>Building intelligent systems, low-level software, and minimalist digital experiences.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&color=8B8B8B&center=true&vCenter=true&lines=systems+programming;ai+engineering;minimal+products;low-level+thinking" />
 </p>
 
 ---
 
+<!-- ========================================= -->
+
+<!--           VISUAL DIVIDER                  -->
+
+<!-- ========================================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2b2b2b&height=2&section=header"/>
+</p>
+
+---
+
+<!-- ========================================= -->
+
+<!--           CONTRIBUTION VISUAL             -->
+
+<!-- ========================================= -->
+
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
 
-## About
+<!-- ========================================= -->
 
-Computer Science Engineering undergraduate focused on three parallel domains:
+<!--               ABOUT                      -->
 
-- **Low-Level Systems Programming**
-- **Python, AI & Machine Learning**
-- **Minimal Full-Stack Product Engineering**
+<!-- ========================================= -->
 
-I enjoy building software close to the metal as much as I enjoy designing intelligent systems. My work often blends raw memory logic, backend architecture, and clean user interfaces.
+## ▣ PROFILE
+
+```
+role        : computer science engineer
+focus       : systems / ai / product engineering
+philosophy  : precision > noise
+build style : minimal, fast, intentional
+```
+
+I build software that sits close to the machine while still feeling human.
+
+From pointer arithmetic to intelligent systems, my work lives at the intersection of:
+
+* raw control
+* mathematical reasoning
+* clean product experience
 
 ---
 
-## Core Interests
+<!-- ========================================= -->
 
-- Systems Programming in **C / C++**
-- Memory Management & Pointer Logic
-- Cryptography Engineering
-- Machine Learning & Neural Networks
-- Backend Architecture
-- Algorithms & Problem Solving
-- Human-Centered Minimalist Design
+<!--               CORE DOMAINS               -->
+
+<!-- ========================================= -->
+
+## ▣ CORE DOMAINS
+
+| domain               | direction                        |
+| -------------------- | -------------------------------- |
+| systems programming  | memory, pointers, performance    |
+| ai & ml              | neural systems, applied learning |
+| backend architecture | scalable + secure systems        |
+| product engineering  | minimal full-stack systems       |
 
 ---
 
-## Tech Stack
+<!-- ========================================= -->
+
+<!--               TECH STACK                 -->
+
+<!-- ========================================= -->
+
+## ▣ STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,flask,fastapi,tailwind,linux,git&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nodejs,flask,fastapi,linux,git&theme=dark"/>
 </p>
 
 ---
 
-## Strengths
+<!-- ========================================= -->
 
-- Strong fundamentals in programming logic and computer systems  
-- Comfortable moving between low-level code and modern web stacks  
-- Fast learner with product-builder mindset  
-- Mathematical foundations: Calculus, Linear Algebra, Probability  
-- Clean architecture with performance-first thinking  
+<!--               SKILL GRAPH                -->
 
----
+<!-- ========================================= -->
 
-## Projects
-
-### 🔹 Project Crypt
-
-Cryptography-focused systems project built with intensive pointer-driven architecture and low-level memory operations.
-
-**Highlights**
-- Manual memory control  
-- Deep pointer use-cases  
-- Encryption / transformation logic  
-- Performance-oriented C/C++ implementation  
-- Strong focus on data handling internals  
-
----
-
-### 🔹 X-NCU
-
-Private campus social network built for **The NorthCap University** community.
-
-Twitter-inspired ecosystem developed from scratch with systems-level backend thinking.
-
-**Highlights**
-- C++ backend architecture  
-- Secure university-only access  
-- User authentication  
-- Feed system & post interactions  
-- Full-stack product built independently  
-
----
-
-### 🔹 SERA
-
-AI-powered Life Operating System designed for routines, planning, productivity, and decision support.
-
-**Highlights**
-- Smart workflow engine  
-- Adaptive scheduling  
-- AI integrations  
-- Minimal distraction-free UX  
-
----
-
-### 🔹 100 Mini Projects
-
-Repository dedicated to rapid execution, algorithmic training, and consistency.
-
-**Highlights**
-- Python utilities  
-- Logic drills  
-- Small tools  
-- Fast iteration mindset  
-
----
-
-## Philosophy
-
-> Build with precision. Remove noise. Keep only what matters.
-
-I prefer products that feel quiet, fast, and deliberate.
-
----
-
-## Current Direction
-
-Currently exploring:
-
-- Advanced Mathematics  
-- AI Systems Engineering  
-- High Performance Computing  
-- Secure Systems Design  
-- Computational Research  
-
----
-
-## Connect
+## ▣ SYSTEM METRICS
 
 <p align="center">
-<a href="https://github.com/adixyaxo"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
-<a href="https://x.com/adixyaxo"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
-<a href="mailto:aditya@mail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=aaaaaa&icon_color=888888&text_color=aaaaaa"/>
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/@adixyaxo"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adixyaxo&theme=dark&hide_border=true&background=00000000&stroke=555555&ring=888888&fire=aaaaaa&currStreakLabel=aaaaaa"/>
 </p>
 
 ---
 
-<p align="center"><b>Designed with intention • Built with depth</b></p>
+<!-- ========================================= -->
+
+<!--               PROJECTS                   -->
+
+<!-- ========================================= -->
+
+## ▣ PROJECT ARCHIVE
+
+### ◼ PROJECT.CRYPT
+
+```
+type    : cryptographic system
+lang    : c / c++
+focus   : memory-level control
+```
+
+* manual memory management
+* pointer-intensive architecture
+* encryption pipelines
+* performance-first design
+
+---
+
+### ◼ X-NCU
+
+```
+type    : private social network
+model   : university ecosystem
+```
+
+* c++ backend system
+* authentication layer
+* feed engine
+* isolated network architecture
+
+---
+
+### ◼ SERA
+
+```
+type    : ai operating system
+focus   : productivity + cognition
+```
+
+* adaptive workflows
+* intelligent scheduling
+* minimal interface design
+
+---
+
+### ◼ 100.MODULES
+
+```
+type    : rapid execution repository
+goal    : consistency + mastery
+```
+
+* algorithm drills
+* python utilities
+* fast iteration cycles
+
+---
+
+<!-- ========================================= -->
+
+<!--               PHILOSOPHY                 -->
+
+<!-- ========================================= -->
+
+## ▣ PHILOSOPHY
+
+```
+build with precision
+remove everything unnecessary
+leave only what matters
+```
+
+Software should feel like silence:
+fast, intentional, and invisible until needed.
+
+---
+
+<!-- ========================================= -->
+
+<!--           CURRENT VECTOR                 -->
+
+<!-- ========================================= -->
+
+## ▣ CURRENT VECTOR
+
+* advanced mathematics
+* ai systems engineering
+* high-performance computing
+* secure system design
+* computational research
+
+---
+
+<!-- ========================================= -->
+
+<!--               CONNECT                    -->
+
+<!-- ========================================= -->
+
+## ▣ LINK
+
+<p align="center">
+  <a href="https://github.com/adixyaxo"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
+  <a href="https://x.com/adixyaxo"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
+  <a href="mailto:aditya@mail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
+</p>
+
+---
+
+<p align="center">
+  <code>system.out.println("designed with intention • built with depth");</code>
+</p>
