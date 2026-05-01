@@ -1,105 +1,134 @@
-<!-- ========================================= -->
-
-<!--               HEADER                     -->
-
-<!-- ========================================= -->
-
 <h1 align="center">Aditya Dagar</h1>
 
 <p align="center">
-  <i>Systems Programming • AI Engineering • Minimal Software Design</i>
+  <img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846">
 </p>
+
+<p align="center">
+  <i>Building intelligent systems, low-level software, and minimalist digital experiences.</i>
+</p>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
 ## About
 
-Computer Science Engineering undergraduate focused on building systems that are **efficient, precise, and thoughtfully designed**.
+Computer Science Engineering undergraduate focused on three parallel domains:
 
-My work sits at the intersection of:
+* **Low-Level Systems Programming**
+* **Python, AI & Machine Learning**
+* **Minimal Full-Stack Product Engineering**
 
-* low-level control
-* intelligent systems
-* clean product architecture
-
-I approach software with a bias toward **performance, clarity, and minimalism**.
+I enjoy building software close to the metal as much as designing intelligent systems. My work blends memory-level logic, backend architecture, and clean user interfaces.
 
 ---
 
-## Core Areas
+## Core Interests
 
-* Systems Programming (C / C++)
-* Memory Management & Low-Level Design
-* Machine Learning & AI Systems
+* Systems Programming in **C / C++**
+* Memory Management & Pointer Logic
+* Cryptography Engineering
+* Machine Learning & Neural Networks
 * Backend Architecture
 * Algorithms & Problem Solving
-* Cryptography Engineering
+* Human-Centered Minimalist Design
 
 ---
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nodejs,flask,fastapi,linux,git&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,flask,fastapi,tailwind,linux,git&theme=dark"/>
 </p>
-
----
-
-## Selected Work
-
-### Project Crypt
-
-Cryptography-focused system built with low-level memory control.
-
-* Pointer-driven architecture
-* Manual memory management
-* Encryption and transformation logic
-* Performance-oriented implementation
-
----
-
-### X-NCU
-
-Private campus social network for The NorthCap University.
-
-* C++ backend system
-* Authentication and access control
-* Feed and interaction model
-* Built as a complete product from scratch
-
----
-
-### SERA
-
-AI-powered life operating system for planning and decision support.
-
-* Adaptive workflows
-* Intelligent scheduling
-* Minimal, distraction-free interface
-
----
-
-### 100 Mini Projects
-
-A repository focused on consistency and rapid execution.
-
-* Algorithmic problem solving
-* Python utilities
-* Iterative development practice
 
 ---
 
 ## Strengths
 
-* Strong foundation in computer science fundamentals
-* Comfortable across low-level and full-stack environments
-* Fast learner with a builder mindset
-* Solid mathematical base (calculus, linear algebra, probability)
-* Focus on clean, maintainable architecture
+* Strong fundamentals in programming logic and computer systems
+* Comfortable moving between low-level code and modern web stacks
+* Fast learner with a product-builder mindset
+* Mathematical foundation: Calculus, Linear Algebra, Probability
+* Focus on clean architecture with performance-first thinking
 
 ---
 
-## Current Focus
+## Projects
+
+### 🔹 Project Crypt
+
+Cryptography-focused systems project built with intensive pointer-driven architecture and low-level memory operations.
+
+**Highlights**
+
+* Manual memory control
+* Deep pointer use-cases
+* Encryption / transformation logic
+* Performance-oriented C/C++ implementation
+* Strong focus on data handling internals
+
+---
+
+### 🔹 X-NCU
+
+Private campus social network built for **The NorthCap University** community. A Twitter-inspired ecosystem developed from scratch with systems-level backend thinking.
+
+**Highlights**
+
+* C++ backend architecture
+* Secure university-only access
+* User authentication
+* Feed system & post interactions
+* Full-stack product built independently
+
+---
+
+### 🔹 SERA
+
+AI-powered Life Operating System designed for routines, planning, productivity, and decision support.
+
+**Highlights**
+
+* Smart workflow engine
+* Adaptive scheduling
+* AI integrations
+* Minimal, distraction-free UX
+
+---
+
+### 🔹 100 Mini Projects
+
+Repository dedicated to rapid execution, algorithmic training, and consistency.
+
+**Highlights**
+
+* Python utilities
+* Logic drills
+* Small tools
+* Fast iteration mindset
+
+---
+
+## Philosophy
+
+> Build with precision. Remove noise. Keep only what matters.
+
+I prefer products that feel quiet, fast, and deliberate.
+
+---
+
+## Current Direction
+
+Currently exploring:
 
 * Advanced Mathematics
 * AI Systems Engineering
@@ -109,27 +138,28 @@ A repository focused on consistency and rapid execution.
 
 ---
 
-## Philosophy
-
-> Build with precision.
-> Remove the unnecessary.
-> Focus on what matters.
-
-I prefer software that is **quiet, fast, and intentional**.
-
----
-
 ## Connect
 
-<p>
-  <a href="https://github.com/adixyaxo">GitHub</a> •
-  <a href="https://x.com/adixyaxo">Twitter</a> •
-  <a href="mailto:aditya@mail.com">Email</a> •
-  <a href="https://www.youtube.com/@adixyaxo">YouTube</a>
+<p align="center">
+  <a href="https://github.com/adixyaxo">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark"/>
+  </a>
+  <a href="https://x.com/adixyaxo">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
+  </a>
+  <a href="mailto:aditya@mail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@adixyaxo">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Designed with intention • Built with depth</sub>
+  <b>Designed with intention • Built with depth</b>
 </p>
