@@ -1,12 +1,14 @@
 <div align="center">
 
-# Aditya Dagar
-
-<img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=2D353B&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=D3C6AA&center=true&vCenter=true&width=700&lines=Aditya+Dagar;systems+•+intelligence+•+precision"/>
 
 <br>
 
-<sub>systems • intelligence • precision</sub>
+<img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=000000&labelColor=111111&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=2&section=header"/>
 
 </div>
 
@@ -16,15 +18,15 @@
 
 <table>
 <tr>
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/profile-2D353B?style=for-the-badge&logo=gnometerminal&logoColor=A7C080">
+<img src="https://img.shields.io/badge/profile-000000?style=for-the-badge&logo=gnometerminal&logoColor=A7C080">
 
 </td>
 
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/runtime-2D353B?style=for-the-badge&logo=linux&logoColor=A7C080">
+<img src="https://img.shields.io/badge/runtime-000000?style=for-the-badge&logo=linux&logoColor=A7C080">
 
 </td>
 </tr>
@@ -61,11 +63,13 @@ latency     optimized
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 </div>
 
 <br>
@@ -74,15 +78,15 @@ latency     optimized
 
 <table>
 <tr>
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/signal-2D353B?style=for-the-badge&logo=buffer&logoColor=A7C080">
+<img src="https://img.shields.io/badge/signal-000000?style=for-the-badge&logo=buffer&logoColor=A7C080">
 
 </td>
 
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/interests-2D353B?style=for-the-badge&logo=matrix&logoColor=A7C080">
+<img src="https://img.shields.io/badge/interests-000000?style=for-the-badge&logo=matrix&logoColor=A7C080">
 
 </td>
 </tr>
@@ -121,11 +125,21 @@ ai/ml      inference systems
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/stack-2D353B?style=for-the-badge&logo=stackshare&logoColor=A7C080">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1E2326&height=2&section=header"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/stack-000000?style=for-the-badge&logo=stackshare&logoColor=A7C080">
+
+</div>
+
+<br>
+
+<div align="center">
 
 <table>
 <tr>
-<td align="left" width="270">
+<td align="left" width="280">
 
 ```console
 languages
@@ -140,7 +154,7 @@ sql
 
 </td>
 
-<td align="left" width="270">
+<td align="left" width="280">
 
 ```console
 frontend
@@ -153,7 +167,7 @@ framer motion
 
 </td>
 
-<td align="left" width="270">
+<td align="left" width="280">
 
 ```console
 backend
@@ -171,7 +185,7 @@ crow
 
 <table>
 <tr>
-<td align="left" width="270">
+<td align="left" width="280">
 
 ```console
 databases
@@ -182,7 +196,7 @@ mongodb
 
 </td>
 
-<td align="left" width="270">
+<td align="left" width="280">
 
 ```console
 tooling
@@ -194,7 +208,7 @@ linux
 
 </td>
 
-<td align="left" width="270">
+<td align="left" width="280">
 
 ```console
 infrastructure
@@ -225,15 +239,15 @@ ai orchestration
 
 <table>
 <tr>
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/engineering-2D353B?style=for-the-badge&logo=codeforces&logoColor=A7C080">
+<img src="https://img.shields.io/badge/engineering-000000?style=for-the-badge&logo=codeforces&logoColor=A7C080">
 
 </td>
 
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/focus-2D353B?style=for-the-badge&logo=target&logoColor=A7C080">
+<img src="https://img.shields.io/badge/focus-000000?style=for-the-badge&logo=target&logoColor=A7C080">
 
 </td>
 </tr>
@@ -279,15 +293,15 @@ ai orchestration
 
 <table>
 <tr>
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/project__crypt-2D353B?style=for-the-badge&logo=cplusplus&logoColor=A7C080">
+<img src="https://img.shields.io/badge/project__crypt-000000?style=for-the-badge&logo=cplusplus&logoColor=A7C080">
 
 </td>
 
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/x--ncu-2D353B?style=for-the-badge&logo=cplusplus&logoColor=A7C080">
+<img src="https://img.shields.io/badge/x--ncu-000000?style=for-the-badge&logo=cplusplus&logoColor=A7C080">
 
 </td>
 </tr>
@@ -331,15 +345,15 @@ full-stack systems
 
 <table>
 <tr>
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/sera-2D353B?style=for-the-badge&logo=react&logoColor=A7C080">
+<img src="https://img.shields.io/badge/sera-000000?style=for-the-badge&logo=react&logoColor=A7C080">
 
 </td>
 
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/100__mini__projects-2D353B?style=for-the-badge&logo=python&logoColor=A7C080">
+<img src="https://img.shields.io/badge/100__mini__projects-000000?style=for-the-badge&logo=python&logoColor=A7C080">
 
 </td>
 </tr>
@@ -389,15 +403,15 @@ rapid execution
 
 <table>
 <tr>
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/experience-2D353B?style=for-the-badge&logo=google&logoColor=A7C080">
+<img src="https://img.shields.io/badge/experience-000000?style=for-the-badge&logo=google&logoColor=A7C080">
 
 </td>
 
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/education-2D353B?style=for-the-badge&logo=bookstack&logoColor=A7C080">
+<img src="https://img.shields.io/badge/education-000000?style=for-the-badge&logo=bookstack&logoColor=A7C080">
 
 </td>
 </tr>
@@ -452,15 +466,15 @@ cgpa      8.2
 
 <table>
 <tr>
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/achievements-2D353B?style=for-the-badge&logo=trophy&logoColor=A7C080">
+<img src="https://img.shields.io/badge/achievements-000000?style=for-the-badge&logo=trophy&logoColor=A7C080">
 
 </td>
 
-<td align="center" width="420">
+<td align="center" width="430">
 
-<img src="https://img.shields.io/badge/philosophy-2D353B?style=for-the-badge&logo=ghost&logoColor=A7C080">
+<img src="https://img.shields.io/badge/philosophy-000000?style=for-the-badge&logo=ghost&logoColor=A7C080">
 
 </td>
 </tr>
@@ -499,7 +513,7 @@ quiet systems scale better
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/terminal-2D353B?style=for-the-badge&logo=gnometerminal&logoColor=A7C080">
+<img src="https://img.shields.io/badge/terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=A7C080">
 
 ```console
 > compiling systems...
@@ -532,9 +546,13 @@ quiet systems scale better
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=adixyaxo&style=flat-square&color=2D353B">
+<img src="https://komarev.com/ghpvc/?username=adixyaxo&style=flat-square&color=000000">
 
 <br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2&section=footer"/>
+
+<br>
 
 <sub>engineered quietly.</sub>
 
