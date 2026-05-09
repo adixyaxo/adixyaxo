@@ -10,23 +10,18 @@
 
 ---
 
-<div align="center">
-
 ```txt
-┌────────────────────────────────────────────────────────────────────────────────────────────┐
-│ aditya@systems                                                                             │
-├────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                            │
-│  role        software engineer & systems developer      focus       ai/ml • infrastructure │
-│  approach    minimal surface • deep systems             state       operational            │
-│  philosophy  precision over decoration                  signal      low-noise execution    │
-│                                                                                            │
-└────────────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┬──────────────────────────────────────────────┐
+│ aditya@systems                               │ status                                       │
+├──────────────────────────────────────────────┼──────────────────────────────────────────────┤
+│                                              │                                              │
+│ role      software engineer                  │ focus      ai/ml systems                     │
+│ stack     low-level + backend                │ state      operational                       │
+│ signal    low-noise execution                │ latency    optimized                         │
+│ approach  minimal surface                    │ runtime    building                          │
+│                                              │                                              │
+└──────────────────────────────────────────────┴──────────────────────────────────────────────┘
 ```
-
-</div>
-
----
 
 <div align="center">
   <picture>
@@ -38,48 +33,50 @@
 
 ---
 
-<div align="center">
-
 ```txt
 ┌──────────────────────────────────────────────┬──────────────────────────────────────────────┐
-│ /signal                                      │ /core_interests                              │
+│ signal                                       │ core_interests                               │
 ├──────────────────────────────────────────────┼──────────────────────────────────────────────┤
 │                                              │                                              │
-│  c++       systems & performance             │  → systems programming                       │
-│  python    intelligence & automation         │  → memory architecture                       │
-│  react     interface architecture            │  → cryptography engineering                  │
-│  node.js   backend orchestration             │  → machine learning                          │
-│  ai/ml     inference systems                 │  → backend infrastructure                    │
-│                                              │  → minimalist interfaces                     │
+│ c++        systems & performance             │ → systems programming                        │
+│ python     intelligence & automation         │ → memory architecture                        │
+│ react      interface architecture            │ → cryptography engineering                   │
+│ node.js    backend orchestration             │ → machine learning                           │
+│ ai/ml      inference systems                 │ → scalable infrastructure                    │
+│                                              │ → minimalist interfaces                      │
 │                                              │                                              │
 └──────────────────────────────────────────────┴──────────────────────────────────────────────┘
 ```
 
-</div>
-
 ---
 
-<div align="center">
-
 ```txt
-┌────────────────────────────────────────────────────────────────────────────────────────────┐
-│ /stack                                                                                    │
-├────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                            │
-│  languages      c • c++ • python • javascript • typescript • sql                          │
-│                                                                                            │
-│  frontend       react • tailwind • html • css • framer                                    │
-│                                                                                            │
-│  backend        node • express • flask • fastapi • crow                                   │
-│                                                                                            │
-│  databases      mysql • mongodb                                                           │
-│                                                                                            │
-│  tooling        git • github • linux • rest apis • gemini api                             │
-│                                                                                            │
-└────────────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
+│ languages                    │ frontend                     │ backend                      │
+├──────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│                              │                              │                              │
+│ c                            │ react                        │ node.js                      │
+│ c++                          │ tailwind                     │ express                      │
+│ python                       │ html/css                     │ flask                        │
+│ javascript                   │ framer motion                │ fastapi                      │
+│ typescript                   │                              │ crow                         │
+│ sql                          │                              │                              │
+│                              │                              │                              │
+└──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
 ```
 
-</div>
+```txt
+┌──────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
+│ databases                    │ tooling                      │ infrastructure               │
+├──────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│                              │                              │                              │
+│ mysql                        │ git                          │ rest apis                    │
+│ mongodb                      │ github                       │ gemini api                   │
+│                              │ linux                        │ backend systems              │
+│                              │                              │ ai orchestration             │
+│                              │                              │                              │
+└──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
+```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,react,nodejs,express,flask,fastapi,mongodb,mysql,tailwind,linux,git,github&theme=dark"/>
@@ -87,134 +84,107 @@
 
 ---
 
-<div align="center">
-
 ```txt
 ┌──────────────────────────────────────────────┬──────────────────────────────────────────────┐
-│ /engineering_profile                         │ /current_focus                               │
+│ engineering_profile                          │ current_focus                                │
 ├──────────────────────────────────────────────┼──────────────────────────────────────────────┤
 │                                              │                                              │
-│  [✓] systems-first thinking                  │  → ai systems engineering                    │
-│  [✓] low-level programming                   │  → computational mathematics                 │
-│  [✓] performance architecture                │  → inference architecture                    │
-│  [✓] memory → ui abstraction                 │  → scalable backend systems                  │
-│  [✓] mathematical problem solving            │  → secure systems design                     │
-│                                              │  → low-level optimization                    │
+│ [✓] systems-first thinking                   │ → ai systems engineering                     │
+│ [✓] low-level architecture                   │ → computational mathematics                  │
+│ [✓] memory → ui abstraction                  │ → inference architecture                     │
+│ [✓] performance-oriented design              │ → secure systems                             │
+│ [✓] mathematical problem solving             │ → scalable backends                          │
+│                                              │ → low-level optimization                     │
 │                                              │                                              │
 └──────────────────────────────────────────────┴──────────────────────────────────────────────┘
 ```
 
-</div>
-
 ---
-
-# projects
-
-<div align="center">
 
 ```txt
 ┌──────────────────────────────────────────────┬──────────────────────────────────────────────┐
 │ project_crypt                                │ x-ncu                                        │
 ├──────────────────────────────────────────────┼──────────────────────────────────────────────┤
 │                                              │                                              │
-│  stack    c/c++ • encryption                 │  stack    c++ • crow • full-stack            │
+│ stack     c/c++ • encryption                 │ stack     c++ • crow                         │
 │                                              │                                              │
-│  → manual memory control                     │  → private campus network                    │
-│  → pointer-intensive systems                 │  → secure authentication                     │
-│  → transformation logic                      │  → feed generation engine                    │
-│  → low-level optimization                    │  → lightweight frontend                      │
-│                                              │  → independently engineered                  │
+│ → manual memory control                      │ → campus social network                      │
+│ → pointer-intensive systems                  │ → secure authentication                      │
+│ → transformation logic                       │ → feed generation engine                     │
+│ → low-level optimization                     │ → lightweight frontend                       │
+│                                              │ → independently engineered                   │
 │                                              │                                              │
 └──────────────────────────────────────────────┴──────────────────────────────────────────────┘
 ```
-
-</div>
-
----
-
-<div align="center">
 
 ```txt
 ┌──────────────────────────────────────────────┬──────────────────────────────────────────────┐
 │ sera                                         │ 100_mini_projects                            │
 ├──────────────────────────────────────────────┼──────────────────────────────────────────────┤
 │                                              │                                              │
-│  stack    react • node • ai                  │  stack    python • algorithms                │
+│ stack     react • node • ai                  │ stack     python • algorithms                │
 │                                              │                                              │
-│  → adaptive scheduling                       │  → utilities & tooling                       │
-│  → workflow orchestration                    │  → algorithm drills                          │
-│  → contextual ai systems                     │  → rapid iteration cycles                    │
-│  → distraction-free interface                │  → execution consistency                     │
+│ → adaptive scheduling                        │ → utilities & tooling                        │
+│ → contextual ai systems                      │ → algorithm drills                           │
+│ → workflow orchestration                     │ → rapid iteration cycles                     │
+│ → distraction-free interface                 │ → execution consistency                      │
 │                                              │                                              │
 └──────────────────────────────────────────────┴──────────────────────────────────────────────┘
 ```
 
-</div>
-
 ---
-
-# experience
-
-<div align="center">
 
 ```txt
 ┌──────────────────────────────────────────────┬──────────────────────────────────────────────┐
-│ google developer student clubs               │ entrepreneurship cell                        │
+│ experience                                   │ education                                    │
 ├──────────────────────────────────────────────┼──────────────────────────────────────────────┤
 │                                              │                                              │
-│  role     core member                        │  role     core team member                   │
+│ google developer student clubs               │ the northcap university                      │
+│ core member                                  │ b.tech computer science                      │
+│                                              │ cgpa      8.2                                │
+│ → technical workshops                        │                                              │
+│ → open-source collaboration                  │ focus:                                       │
+│ → deployment initiatives                     │ → data structures                            │
+│                                              │ → algorithms                                 │
+│ entrepreneurship cell                        │ → systems programming                        │
+│ core team member                             │ → full-stack engineering                     │
 │                                              │                                              │
-│  → technical workshops                       │  → hackathon logistics                       │
-│  → open-source collaboration                 │  → startup ecosystem support                 │
-│  → deployment initiatives                    │  → technical event planning                  │
+│ → hackathon logistics                        │                                              │
+│ → startup ecosystem support                  │                                              │
 │                                              │                                              │
 └──────────────────────────────────────────────┴──────────────────────────────────────────────┘
 ```
 
-</div>
-
 ---
-
-# education
-
-<div align="center">
 
 ```txt
 ┌──────────────────────────────────────────────┬──────────────────────────────────────────────┐
-│ the northcap university                      │ jee mains                                    │
+│ achievements                                 │ philosophy                                   │
 ├──────────────────────────────────────────────┼──────────────────────────────────────────────┤
 │                                              │                                              │
-│  degree    b.tech computer science           │  percentile   91.95                          │
-│  cgpa      8.2                               │  national     top 9%                         │
-│                                              │  scale        1.4m+ candidates               │
-│  focus     data structures                   │                                              │
-│            algorithms                        │                                              │
-│            systems programming               │                                              │
-│            full-stack engineering            │                                              │
+│ jee mains                                    │ precision over decoration                    │
+│ percentile      91.95                        │                                              │
+│ national rank   top 9%                       │ minimal surface • deep systems               │
+│ scale           1.4m+ candidates             │                                              │
+│                                              │ quiet systems scale better                   │
 │                                              │                                              │
 └──────────────────────────────────────────────┴──────────────────────────────────────────────┘
 ```
 
-</div>
-
 ---
-
-<div align="center">
 
 ```bash
-┌────────────────────────────────────────────────────────────────────────────────────────────┐
-│ terminal                                                                                   │
-├────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                            │
-│  > compiling systems...                                                                    │
-│  > reducing noise...                                                                       │
-│  > optimizing clarity...                                                                   │
-│  > status :: operational                                                                   │
-│                                                                                            │
-└────────────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ terminal                                                                     │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ > compiling systems...                                                       │
+│ > reducing noise...                                                          │
+│ > optimizing clarity...                                                      │
+│ > status :: operational                                                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
-
-</div>
 
 ---
 
