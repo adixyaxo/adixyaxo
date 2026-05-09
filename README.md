@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=D3C6AA&center=true&vCenter=true&width=700&lines=Aditya+Dagar;systems+•+intelligence+•+precision"/>
+# Aditya Dagar
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A7C080&center=true&vCenter=true&width=600&lines=systems+•+intelligence+•+precision;minimal+surface+•+deep+systems">
 
 <br>
 
-<img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=000000&labelColor=111111&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846">
+<img src="https://img.shields.io/badge/status-operational-111111?style=for-the-badge&logo=gnometerminal&logoColor=A7C080&labelColor=000000">
 
-<br><br>
+<img src="https://img.shields.io/badge/focus-ai%2Fml-111111?style=for-the-badge&logo=openai&logoColor=A7C080&labelColor=000000">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=2&section=header"/>
+<img src="https://img.shields.io/badge/runtime-low--noise-111111?style=for-the-badge&logo=linux&logoColor=A7C080&labelColor=000000">
 
 </div>
 
@@ -18,40 +20,57 @@
 
 <table>
 <tr>
-<td align="center" width="430">
+<td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/profile-000000?style=for-the-badge&logo=gnometerminal&logoColor=A7C080">
+<img src="https://img.shields.io/badge/profile-000000?style=for-the-badge&logo=ghost&logoColor=A7C080">
 
-</td>
-
-<td align="center" width="430">
-
-<img src="https://img.shields.io/badge/runtime-000000?style=for-the-badge&logo=linux&logoColor=A7C080">
-
-</td>
-</tr>
-
-<tr>
-<td align="left">
+<br><br>
 
 ```console
-role        software engineer
-focus       ai/ml • infrastructure
-approach    minimal surface
-signal      low-noise execution
-state       operational
+role
+software engineer
+
+focus
+ai/ml systems
+backend architecture
+
+approach
+precision over decoration
 ```
 
 </td>
 
-<td align="left">
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/signal-000000?style=for-the-badge&logo=buffer&logoColor=A7C080">
+
+<br><br>
 
 ```console
-systems     low-level architecture
-backend     scalable orchestration
-interfaces  clean interaction layers
-mindset     precision over decoration
-latency     optimized
+c++
+systems & performance
+
+python
+intelligence & automation
+
+react
+interface architecture
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/interests-000000?style=for-the-badge&logo=matrix&logoColor=A7C080">
+
+<br><br>
+
+```console
+→ systems programming
+→ memory architecture
+→ machine learning
+→ scalable systems
+→ minimalist interfaces
 ```
 
 </td>
@@ -64,86 +83,25 @@ latency     optimized
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
-<br>
+---
 
 <div align="center">
+
+# stack
 
 <table>
 <tr>
-<td align="center" width="430">
+<td width="25%" valign="top">
 
-<img src="https://img.shields.io/badge/signal-000000?style=for-the-badge&logo=buffer&logoColor=A7C080">
-
-</td>
-
-<td align="center" width="430">
-
-<img src="https://img.shields.io/badge/interests-000000?style=for-the-badge&logo=matrix&logoColor=A7C080">
-
-</td>
-</tr>
-
-<tr>
-<td align="left">
-
-```console
-c++        systems & performance
-python     intelligence & automation
-react      interface architecture
-node.js    backend orchestration
-ai/ml      inference systems
-```
-
-</td>
-
-<td align="left">
-
-```console
-→ systems programming
-→ memory architecture
-→ machine learning
-→ cryptography engineering
-→ scalable infrastructure
-→ minimalist interfaces
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1E2326&height=2&section=header"/>
+<img src="https://img.shields.io/badge/languages-000000?style=for-the-badge&logo=c&logoColor=A7C080">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/stack-000000?style=for-the-badge&logo=stackshare&logoColor=A7C080">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="left" width="280">
-
 ```console
-languages
-
 c
 c++
 python
@@ -154,11 +112,13 @@ sql
 
 </td>
 
-<td align="left" width="280">
+<td width="25%" valign="top">
+
+<img src="https://img.shields.io/badge/frontend-000000?style=for-the-badge&logo=react&logoColor=A7C080">
+
+<br><br>
 
 ```console
-frontend
-
 react
 tailwind
 html/css
@@ -167,11 +127,13 @@ framer motion
 
 </td>
 
-<td align="left" width="280">
+<td width="25%" valign="top">
+
+<img src="https://img.shields.io/badge/backend-000000?style=for-the-badge&logo=node.js&logoColor=A7C080">
+
+<br><br>
 
 ```console
-backend
-
 node.js
 express
 flask
@@ -180,56 +142,29 @@ crow
 ```
 
 </td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td align="left" width="280">
+<td width="25%" valign="top">
 
-```console
-databases
+<img src="https://img.shields.io/badge/tooling-000000?style=for-the-badge&logo=git&logoColor=A7C080">
 
-mysql
-mongodb
-```
-
-</td>
-
-<td align="left" width="280">
+<br><br>
 
 ```console
-tooling
-
 git
 github
 linux
-```
-
-</td>
-
-<td align="left" width="280">
-
-```console
-infrastructure
-
+mongodb
+mysql
 rest apis
-gemini api
-backend systems
-ai orchestration
 ```
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,react,nodejs,express,flask,fastapi,mongodb,mysql,tailwind,linux,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nodejs,express,flask,fastapi,mongodb,mysql,tailwind,linux,git,github&theme=dark">
 
 </div>
 
@@ -237,23 +172,15 @@ ai orchestration
 
 <div align="center">
 
+# engineering
+
 <table>
 <tr>
-<td align="center" width="430">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/engineering-000000?style=for-the-badge&logo=codeforces&logoColor=A7C080">
+<img src="https://img.shields.io/badge/profile-000000?style=for-the-badge&logo=codeforces&logoColor=A7C080">
 
-</td>
-
-<td align="center" width="430">
-
-<img src="https://img.shields.io/badge/focus-000000?style=for-the-badge&logo=target&logoColor=A7C080">
-
-</td>
-</tr>
-
-<tr>
-<td align="left">
+<br><br>
 
 ```console
 [✓] systems-first thinking
@@ -265,7 +192,11 @@ ai orchestration
 
 </td>
 
-<td align="left">
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/current__focus-000000?style=for-the-badge&logo=target&logoColor=A7C080">
+
+<br><br>
 
 ```console
 → ai systems engineering
@@ -287,27 +218,13 @@ ai orchestration
 
 # projects
 
-</div>
-
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="430">
+<td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/project__crypt-000000?style=for-the-badge&logo=cplusplus&logoColor=A7C080">
 
-</td>
-
-<td align="center" width="430">
-
-<img src="https://img.shields.io/badge/x--ncu-000000?style=for-the-badge&logo=cplusplus&logoColor=A7C080">
-
-</td>
-</tr>
-
-<tr>
-<td align="left">
+<br><br>
 
 ```console
 stack
@@ -324,7 +241,11 @@ memory systems
 
 </td>
 
-<td align="left">
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/x--ncu-000000?style=for-the-badge&logo=cplusplus&logoColor=A7C080">
+
+<br><br>
 
 ```console
 stack
@@ -341,25 +262,13 @@ full-stack systems
 
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
-<td align="center" width="430">
+<td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/sera-000000?style=for-the-badge&logo=react&logoColor=A7C080">
 
-</td>
-
-<td align="center" width="430">
-
-<img src="https://img.shields.io/badge/100__mini__projects-000000?style=for-the-badge&logo=python&logoColor=A7C080">
-
-</td>
-</tr>
-
-<tr>
-<td align="left">
+<br><br>
 
 ```console
 stack
@@ -376,7 +285,11 @@ ai workflows
 
 </td>
 
-<td align="left">
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/100__mini__projects-000000?style=for-the-badge&logo=python&logoColor=A7C080">
+
+<br><br>
 
 ```console
 stack
@@ -401,57 +314,38 @@ rapid execution
 
 <div align="center">
 
+# experience
+
 <table>
 <tr>
-<td align="center" width="430">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/experience-000000?style=for-the-badge&logo=google&logoColor=A7C080">
+<img src="https://img.shields.io/badge/google__developer__student__clubs-000000?style=for-the-badge&logo=google&logoColor=A7C080">
 
-</td>
-
-<td align="center" width="430">
-
-<img src="https://img.shields.io/badge/education-000000?style=for-the-badge&logo=bookstack&logoColor=A7C080">
-
-</td>
-</tr>
-
-<tr>
-<td align="left">
+<br><br>
 
 ```console
-google developer student clubs
-
 core member
 
 → technical workshops
 → open-source collaboration
 → deployment initiatives
-
-
-entrepreneurship cell
-
-core team member
-
-→ hackathon logistics
-→ startup ecosystem support
 ```
 
 </td>
 
-<td align="left">
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/entrepreneurship__cell-000000?style=for-the-badge&logo=hackthebox&logoColor=A7C080">
+
+<br><br>
 
 ```console
-the northcap university
+core team member
 
-b.tech computer science
-
-cgpa      8.2
-
-→ data structures
-→ algorithms
-→ systems programming
-→ full-stack engineering
+→ hackathon logistics
+→ startup ecosystem support
+→ technical event planning
 ```
 
 </td>
@@ -464,35 +358,60 @@ cgpa      8.2
 
 <div align="center">
 
+# education + achievements
+
 <table>
 <tr>
-<td align="center" width="430">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/achievements-000000?style=for-the-badge&logo=trophy&logoColor=A7C080">
+<img src="https://img.shields.io/badge/the__northcap__university-000000?style=for-the-badge&logo=bookstack&logoColor=A7C080">
 
-</td>
-
-<td align="center" width="430">
-
-<img src="https://img.shields.io/badge/philosophy-000000?style=for-the-badge&logo=ghost&logoColor=A7C080">
-
-</td>
-</tr>
-
-<tr>
-<td align="left">
+<br><br>
 
 ```console
-jee mains
+b.tech computer science
 
-percentile    91.95
-national      top 9%
-scale         1.4m+ candidates
+cgpa
+8.2
+
+focus
+
+→ data structures
+→ algorithms
+→ systems programming
+→ full-stack engineering
 ```
 
 </td>
 
-<td align="left">
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/jee__mains-000000?style=for-the-badge&logo=trophy&logoColor=A7C080">
+
+<br><br>
+
+```console
+percentile
+91.95
+
+national
+top 9%
+
+scale
+1.4m+ candidates
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/philosophy-000000?style=for-the-badge&logo=ghost&logoColor=A7C080">
 
 ```console
 precision over decoration
@@ -502,10 +421,6 @@ deep systems
 
 quiet systems scale better
 ```
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -524,35 +439,31 @@ quiet systems scale better
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
 <a href="https://github.com/adixyaxo">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark">
 </a>
 
 <a href="https://x.com/adixyaxo">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=twitter&theme=dark">
 </a>
 
 <a href="https://linkedin.com/in/adixyaxo">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark">
 </a>
 
 <a href="mailto:aditya@mail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=adixyaxo&style=flat-square&color=000000">
+<img src="https://komarev.com/ghpvc/?username=adixyaxo&style=for-the-badge&color=000000&labelColor=111111">
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2&section=footer"/>
-
-<br>
 
 <sub>engineered quietly.</sub>
 
