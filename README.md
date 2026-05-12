@@ -1,65 +1,51 @@
-
+````md
 <div align="center">
 
-# ADITYA DAGAR
+# Aditya Dagar
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=900&color=A7C080&center=true&vCenter=true&width=650&lines=systems+%E2%80%A2+intelligence+%E2%80%A2+precision;minimal+surface+%E2%80%A2+deep+systems;engineering+clarity+over+noise">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=A7C080&center=true&vCenter=true&width=700&lines=systems+•+intelligence+•+precision;minimal+surface+•+deep+systems">
 
 <br>
 
-<img src="https://img.shields.io/badge/status-operational-0d0d0d?style=for-the-badge&logo=gnometerminal&logoColor=A7C080">
-<img src="https://img.shields.io/badge/focus-ai%2Fsystems-0d0d0d?style=for-the-badge&logo=openai&logoColor=A7C080">
-<img src="https://img.shields.io/badge/latency-low--noise-0d0d0d?style=for-the-badge&logo=linux&logoColor=A7C080">
+<p>
+<img src="https://img.shields.io/badge/status-operational-0d1117?style=flat-square&logo=gnometerminal&logoColor=A7C080">
+<img src="https://img.shields.io/badge/focus-ai%2Fml-0d1117?style=flat-square&logo=openai&logoColor=A7C080">
+<img src="https://img.shields.io/badge/runtime-low--noise-0d1117?style=flat-square&logo=linux&logoColor=A7C080">
+</p>
 
 </div>
 
 ---
 
-## ▓ SYSTEM GRID // CORE PROFILE
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" valign="top">
+<td width="65%" valign="top">
 
-### ◈ identity
+```txt
+role        software engineer
+focus       ai/ml systems • backend architecture
+approach    precision over decoration
+````
 
-```
+<br>
 
-role      → software engineer
-domain    → ai + systems
-philosophy→ minimal surface logic
-
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### ◈ stack signal
-
-```
-
-c++       → systems core
-python    → intelligence layer
-ts/react  → interface layer
-
+```txt
+c++         systems & performance
+python      intelligence & automation
+react       interface architecture
 ```
 
 </td>
 
-<td width="33%" valign="top">
+<td width="35%" valign="top">
 
-### ◈ execution model
-
-```
-
-think     → structure first
-build     → performance bound
-refine    → noise reduction loop
-
+```txt
+→ systems programming
+→ machine learning
+→ memory architecture
+→ scalable systems
+→ minimalist interfaces
 ```
 
 </td>
@@ -67,199 +53,160 @@ refine    → noise reduction loop
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
+
 </div>
 
 ---
 
-## ▓ BENTO GRID // DOMAIN MATRIX
+# Stack
 
-<div align="center">
-
-<table>
-
+<table width="100%">
 <tr>
-<td width="50%">
 
-### ◉ systems
+<td width="25%" valign="top">
 
+### Languages
+
+```txt
+c
+c++
+python
+javascript
+typescript
+sql
 ```
 
-▸ memory architecture
-▸ performance tuning
-▸ low-level design
-▸ computational models
+</td>
 
+<td width="25%" valign="top">
+
+### Frontend
+
+```txt
+react
+tailwind
+html/css
+framer motion
 ```
 
 </td>
 
-<td width="50%">
+<td width="25%" valign="top">
 
-### ◉ intelligence
+### Backend
 
-```
-
-▸ ml pipelines
-▸ inference systems
-▸ automation logic
-▸ data-driven control
-
+```txt
+node.js
+express
+flask
+fastapi
+crow
 ```
 
 </td>
+
+<td width="25%" valign="top">
+
+### Tooling
+
+```txt
+git
+github
+linux
+mongodb
+mysql
+rest apis
+```
+
+</td>
+
 </tr>
-
-<tr>
-<td width="50%">
-
-### ◉ backend
-
-```
-
-▸ node / flask / fastapi
-▸ distributed APIs
-▸ authentication systems
-▸ scalable services
-
-```
-
-</td>
-
-<td width="50%">
-
-### ◉ frontend
-
-```
-
-▸ react architecture
-▸ motion systems
-▸ UI state machines
-▸ minimal interfaces
-
-```
-
-</td>
-</tr>
-
 </table>
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nodejs,express,flask,fastapi,mongodb,mysql,tailwind,linux,git,github&theme=dark">
+
 </div>
 
 ---
 
-## ▓ TOOLCHAIN GRID // ENGINE STACK
+# Engineering
 
-<div align="center">
-
-<table>
-
+<table width="100%">
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
-### languages
-```
+### Core
 
-C / C++
-Python
-JavaScript
-TypeScript
-SQL
-
-```
-
-</td>
-
-<td>
-
-### backend
-```
-
-Node.js
-Express
-FastAPI
-Flask
-Crow
-
+```txt
+[✓] systems-first thinking
+[✓] low-level architecture
+[✓] memory → ui abstraction
+[✓] mathematical problem solving
+[✓] performance-oriented systems
 ```
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### frontend
-```
+### Current Focus
 
-React
-Tailwind
-Framer Motion
-HTML/CSS
-
-```
-
-</td>
-
-<td>
-
-### infra
-```
-
-Linux
-Git
-MongoDB
-MySQL
-REST APIs
-
+```txt
+→ ai systems engineering
+→ inference architecture
+→ scalable backends
+→ computational mathematics
+→ low-level optimization
 ```
 
 </td>
 
 </tr>
-
 </table>
 
-</div>
-
 ---
 
-## ▓ PROJECT GRID // SYSTEM BUILDS
+# Projects
 
-<div align="center">
-
-<table>
-
+<table width="100%">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ▣ crypt
+## crypt
 
-```
+```txt
+stack
+c/c++ • encryption • memory systems
 
-C / C++
-encryption systems
-
-→ pointer-level control
-→ memory-safe transformations
-→ optimized cryptographic logic
-
+→ manual memory control
+→ pointer-intensive systems
+→ transformation logic
+→ low-level optimization
 ```
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ▣ x-ncu
+## x-ncu
 
-```
+```txt
+stack
+c++ • crow • full-stack systems
 
-C++ / Crow
-campus network system
-
-→ social graph backend
-→ authentication system
-→ feed engine
-
+→ campus social network
+→ secure authentication
+→ feed generation engine
+→ lightweight frontend
 ```
 
 </td>
@@ -268,182 +215,165 @@ campus network system
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ▣ sera
+## sera
 
-```
-
-React / Node.js
-AI workflow engine
+```txt
+stack
+react • node.js • ai workflows
 
 → adaptive scheduling
-→ contextual automation
-→ minimal UI logic
-
+→ contextual ai systems
+→ workflow orchestration
+→ distraction-free interface
 ```
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ▣ 100 mini systems
+## 100-mini-projects
 
-```
-
-Python
-algorithmic systems
+```txt
+stack
+python • algorithms • rapid execution
 
 → utilities & tooling
-→ rapid iteration
-→ execution discipline
-
+→ algorithm drills
+→ rapid iteration cycles
+→ execution consistency
 ```
 
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
-## ▓ ENGINEERING STATE
+# Experience
 
-<div align="center">
-
-<table>
-
+<table width="100%">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ◈ mindset kernel
+### Google Developer Student Clubs
 
-```
+```txt
+core member
 
-✓ systems-first thinking
-✓ performance over abstraction
-✓ deterministic design
-✓ memory awareness
-
+→ technical workshops
+→ open-source collaboration
+→ deployment initiatives
 ```
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ◈ active focus
+### Entrepreneurship Cell
 
-```
+```txt
+core team member
 
-→ ai system design
-→ inference optimization
-→ scalable backends
-→ computational math
-
+→ hackathon logistics
+→ startup ecosystem support
+→ technical event planning
 ```
 
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
-## ▓ ACHIEVEMENT GRID
+# Education + Achievements
 
-<div align="center">
-
-<table>
-
+<table width="100%">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### university layer
+### The NorthCap University
 
-```
+```txt
+b.tech computer science
 
-B.Tech CSE
-CGPA → 8.2
+cgpa
+8.2
 
-systems • algorithms • backend engineering
+focus
 
+→ data structures
+→ algorithms
+→ systems programming
+→ full-stack engineering
 ```
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### competitive layer
+### JEE Mains
 
-```
-
-JEE Mains
-→ 91.95 percentile
-→ top ~9% nationally
-
+```txt
+percentile    91.95
+national      top 9%
+scale         1.4m+ candidates
 ```
 
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
-## ▓ TERMINAL NODE
-
 <div align="center">
 
+```txt
+precision over decoration
+
+minimal surface
+deep systems
+
+quiet systems scale better
 ```
 
+<br>
+
+```txt
 > compiling systems...
-> reducing cognitive noise...
-> optimizing architecture...
+> reducing noise...
+> optimizing clarity...
 > status :: operational
-
 ```
 
-</div>
-
----
-
-## ▓ CONNECT GRID
-
-<div align="center">
+<br>
 
 <a href="https://github.com/adixyaxo">
-<img src="https://skillicons.dev/icons?i=github">
+<img src="https://skillicons.dev/icons?i=github&theme=dark">
 </a>
-
-<a href="https://linkedin.com/in/adixyaxo">
-<img src="https://skillicons.dev/icons?i=linkedin">
-</a>
-
 <a href="https://x.com/adixyaxo">
-<img src="https://skillicons.dev/icons?i=twitter">
+<img src="https://skillicons.dev/icons?i=twitter&theme=dark">
 </a>
-
+<a href="https://linkedin.com/in/adixyaxo">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark">
+</a>
 <a href="mailto:aditya@mail.com">
-<img src="https://skillicons.dev/icons?i=gmail">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=adixyaxo&style=for-the-badge&color=0d0d0d">
+<img src="https://komarev.com/ghpvc/?username=adixyaxo&style=flat-square&color=A7C080&labelColor=0d1117">
 
 <br><br>
 
-<sub>engineered in silence. deployed with precision.</sub>
+<sub>engineered quietly.</sub>
 
 </div>
+```
