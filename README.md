@@ -1,57 +1,83 @@
-
-<div align="center">
+without changing anything minimalise this .md file design use very high level .md file format and advanced coding to improve design of this file to feel like a beno grid style minimal and effective  <div align="center">
 
 # Aditya Dagar
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=A7C080&center=true&vCenter=true&width=700&lines=systems+•+intelligence+•+precision;minimal+surface+•+deep+systems">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A7C080&center=true&vCenter=true&width=600&lines=systems+•+intelligence+•+precision;minimal+surface+•+deep+systems">
 
 <br>
 
-<p>
-<img src="https://img.shields.io/badge/status-operational-0d1117?style=flat-square&logo=gnometerminal&logoColor=A7C080">
-<img src="https://img.shields.io/badge/focus-ai%2Fml-0d1117?style=flat-square&logo=openai&logoColor=A7C080">
-<img src="https://img.shields.io/badge/runtime-low--noise-0d1117?style=flat-square&logo=linux&logoColor=A7C080">
-</p>
+<img src="https://img.shields.io/badge/status-operational-111111?style=for-the-badge&logo=gnometerminal&logoColor=A7C080&labelColor=000000">
+
+<img src="https://img.shields.io/badge/focus-ai%2Fml-111111?style=for-the-badge&logo=openai&logoColor=A7C080&labelColor=000000">
+
+<img src="https://img.shields.io/badge/runtime-low--noise-111111?style=for-the-badge&logo=linux&logoColor=A7C080&labelColor=000000">
 
 </div>
 
----
-
-<table width="100%">
-<tr>
-
-<td width="65%" valign="top">
-
-```txt
-role        software engineer
-focus       ai/ml systems • backend architecture
-approach    precision over decoration
-````
-
 <br>
 
-```txt
-c++         systems & performance
-python      intelligence & automation
-react       interface architecture
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/profile-000000?style=for-the-badge&logo=ghost&logoColor=A7C080">
+
+<br><br>
+
+```console
+role
+software engineer
+
+focus
+ai/ml systems
+backend architecture
+
+approach
+precision over decoration
 ```
 
 </td>
 
-<td width="35%" valign="top">
+<td width="33%" valign="top">
 
-```txt
+<img src="https://img.shields.io/badge/signal-000000?style=for-the-badge&logo=buffer&logoColor=A7C080">
+
+<br><br>
+
+```console
+c++
+systems & performance
+
+python
+intelligence & automation
+
+react
+interface architecture
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/interests-000000?style=for-the-badge&logo=matrix&logoColor=A7C080">
+
+<br><br>
+
+```console
 → systems programming
-→ machine learning
 → memory architecture
+→ machine learning
 → scalable systems
 → minimalist interfaces
 ```
 
 </td>
-
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -63,16 +89,19 @@ react       interface architecture
 
 ---
 
-# Stack
+<div align="center">
 
-<table width="100%">
+# stack
+
+<table>
 <tr>
-
 <td width="25%" valign="top">
 
-### Languages
+<img src="https://img.shields.io/badge/languages-000000?style=for-the-badge&logo=c&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 c
 c++
 python
@@ -85,9 +114,11 @@ sql
 
 <td width="25%" valign="top">
 
-### Frontend
+<img src="https://img.shields.io/badge/frontend-000000?style=for-the-badge&logo=react&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 react
 tailwind
 html/css
@@ -98,9 +129,11 @@ framer motion
 
 <td width="25%" valign="top">
 
-### Backend
+<img src="https://img.shields.io/badge/backend-000000?style=for-the-badge&logo=node.js&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 node.js
 express
 flask
@@ -112,9 +145,11 @@ crow
 
 <td width="25%" valign="top">
 
-### Tooling
+<img src="https://img.shields.io/badge/tooling-000000?style=for-the-badge&logo=git&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 git
 github
 linux
@@ -124,11 +159,10 @@ rest apis
 ```
 
 </td>
-
 </tr>
 </table>
 
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nodejs,express,flask,fastapi,mongodb,mysql,tailwind,linux,git,github&theme=dark">
 
@@ -136,30 +170,35 @@ rest apis
 
 ---
 
-# Engineering
+<div align="center">
 
-<table width="100%">
+# engineering
+
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
-### Core
+<img src="https://img.shields.io/badge/profile-000000?style=for-the-badge&logo=codeforces&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 [✓] systems-first thinking
 [✓] low-level architecture
 [✓] memory → ui abstraction
 [✓] mathematical problem solving
-[✓] performance-oriented systems
+[✓] performance-oriented design
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### Current Focus
+<img src="https://img.shields.io/badge/current__focus-000000?style=for-the-badge&logo=target&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 → ai systems engineering
 → inference architecture
 → scalable backends
@@ -168,24 +207,31 @@ rest apis
 ```
 
 </td>
-
 </tr>
 </table>
 
+</div>
+
 ---
 
-# Projects
+<div align="center">
 
-<table width="100%">
+# projects
+
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
-## crypt
+<img src="https://img.shields.io/badge/project__crypt-000000?style=for-the-badge&logo=cplusplus&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 stack
-c/c++ • encryption • memory systems
+
+c/c++
+encryption
+memory systems
 
 → manual memory control
 → pointer-intensive systems
@@ -197,11 +243,16 @@ c/c++ • encryption • memory systems
 
 <td width="50%" valign="top">
 
-## x-ncu
+<img src="https://img.shields.io/badge/x--ncu-000000?style=for-the-badge&logo=cplusplus&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 stack
-c++ • crow • full-stack systems
+
+c++
+crow
+full-stack systems
 
 → campus social network
 → secure authentication
@@ -210,18 +261,21 @@ c++ • crow • full-stack systems
 ```
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-## sera
+<img src="https://img.shields.io/badge/sera-000000?style=for-the-badge&logo=react&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 stack
-react • node.js • ai workflows
+
+react
+node.js
+ai workflows
 
 → adaptive scheduling
 → contextual ai systems
@@ -233,11 +287,16 @@ react • node.js • ai workflows
 
 <td width="50%" valign="top">
 
-## 100-mini-projects
+<img src="https://img.shields.io/badge/100__mini__projects-000000?style=for-the-badge&logo=python&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 stack
-python • algorithms • rapid execution
+
+python
+algorithms
+rapid execution
 
 → utilities & tooling
 → algorithm drills
@@ -246,22 +305,26 @@ python • algorithms • rapid execution
 ```
 
 </td>
-
 </tr>
 </table>
 
+</div>
+
 ---
 
-# Experience
+<div align="center">
 
-<table width="100%">
+# experience
+
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
-### Google Developer Student Clubs
+<img src="https://img.shields.io/badge/google__developer__student__clubs-000000?style=for-the-badge&logo=google&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 core member
 
 → technical workshops
@@ -273,9 +336,11 @@ core member
 
 <td width="50%" valign="top">
 
-### Entrepreneurship Cell
+<img src="https://img.shields.io/badge/entrepreneurship__cell-000000?style=for-the-badge&logo=hackthebox&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 core team member
 
 → hackathon logistics
@@ -284,22 +349,26 @@ core team member
 ```
 
 </td>
-
 </tr>
 </table>
 
+</div>
+
 ---
 
-# Education + Achievements
+<div align="center">
 
-<table width="100%">
+# education + achievements
+
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
-### The NorthCap University
+<img src="https://img.shields.io/badge/the__northcap__university-000000?style=for-the-badge&logo=bookstack&logoColor=A7C080">
 
-```txt
+<br><br>
+
+```console
 b.tech computer science
 
 cgpa
@@ -317,24 +386,34 @@ focus
 
 <td width="50%" valign="top">
 
-### JEE Mains
+<img src="https://img.shields.io/badge/jee__mains-000000?style=for-the-badge&logo=trophy&logoColor=A7C080">
 
-```txt
-percentile    91.95
-national      top 9%
-scale         1.4m+ candidates
+<br><br>
+
+```console
+percentile
+91.95
+
+national
+top 9%
+
+scale
+1.4m+ candidates
 ```
 
 </td>
-
 </tr>
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-```txt
+<img src="https://img.shields.io/badge/philosophy-000000?style=for-the-badge&logo=ghost&logoColor=A7C080">
+
+```console
 precision over decoration
 
 minimal surface
@@ -343,37 +422,49 @@ deep systems
 quiet systems scale better
 ```
 
-<br>
+</div>
 
-```txt
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=A7C080">
+
+```console
 > compiling systems...
 > reducing noise...
 > optimizing clarity...
 > status :: operational
 ```
 
-<br>
+</div>
+
+---
+
+<div align="center">
 
 <a href="https://github.com/adixyaxo">
 <img src="https://skillicons.dev/icons?i=github&theme=dark">
 </a>
+
 <a href="https://x.com/adixyaxo">
 <img src="https://skillicons.dev/icons?i=twitter&theme=dark">
 </a>
+
 <a href="https://linkedin.com/in/adixyaxo">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark">
 </a>
+
 <a href="mailto:aditya@mail.com">
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=adixyaxo&style=flat-square&color=A7C080&labelColor=0d1117">
+<img src="https://komarev.com/ghpvc/?username=adixyaxo&style=for-the-badge&color=000000&labelColor=111111">
 
 <br><br>
 
 <sub>engineered quietly.</sub>
 
 </div>
-```
