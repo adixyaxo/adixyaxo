@@ -1,7 +1,6 @@
 <div align="center">
 
-# Aditya Dagar <p align="left"> <img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846"> </p>
-
+# Aditya Dagar <p align="left">
 ### Systems Engineering • Artificial Intelligence • Research
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=999999&center=true&vCenter=true&width=700&lines=Building+software+that+survives+trends.;Systems+Programming+%E2%80%A2+AI+Engineering+%E2%80%A2+Research.;Minimalism+in+code.+Depth+in+thinking.;Designing+useful+systems.">
