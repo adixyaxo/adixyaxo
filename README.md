@@ -1,125 +1,113 @@
-<div align="center">
-
 <img width="100%" src="./assets/banner.svg">
 
 # Aditya Dagar
 
-### Systems Engineering • Artificial Intelligence • Research
+Systems Engineer. Researcher. Builder.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=8A8A8A&center=true&vCenter=true&width=700&lines=Building+software+that+survives+trends.;Systems+Programming+%E2%80%A2+AI+Engineering.;Researching+intelligence+and+computation.;Minimalism+in+code.+Depth+in+thinking." />
+I work at the intersection of computation, intelligence, and design.
 
-<br>
-
-<img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846">
-
-<img src="https://komarev.com/ghpvc/?username=adixyaxo&style=for-the-badge&color=222222">
-
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="Contribution Snake" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-> Build with precision. Remove noise. Keep only what matters.
-
-</div>
+Most of my time is spent studying how systems behave, whether they are made of memory addresses, distributed machines, neural networks, or people.
 
 ---
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-## About
-
-Computer Science Engineering undergraduate exploring the intersection of:
-
-* Systems Programming
-* Artificial Intelligence
-* Computational Research
-* Product Engineering
-
-I enjoy building software close to the hardware while studying intelligence from first principles.
-
-</td>
-
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ## Current Direction
 
-* AI Systems Engineering
-* High Performance Computing
-* Distributed Systems
-* Secure Computing
+Building toward a deeper understanding of:
+
+* Artificial Intelligence Systems
+* Systems Programming
+* Computational Research
 * Cryptography
-* Mathematical Foundations
+* High Performance Computing
+* Human-Centered Software
+
+I care less about frameworks and more about foundations.
+
+The goal is simple:
+
+Build useful things.
+Understand them completely.
 
 </td>
 
+<td width="40%" valign="top">
+
+### Status
+
+```txt
+Location     India
+
+Focus        Systems + AI
+
+Building     SERA
+
+Learning     HPC
+             Distributed Systems
+             Mathematics
+
+Reading      Papers
+             Books
+             Source Code
+```
+
+</td>
 </tr>
 </table>
 
 ---
 
-## Architecture
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/adixyaxo/adixyaxo/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## Fields
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 ### Systems
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,git&theme=dark"/>
-
-<br>
-
-Memory Management
+C/C++
+Linux
 Operating Systems
+Memory Management
+Computer Architecture
 Performance Engineering
-Systems Design
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 ### Intelligence
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
-
-<br>
-
 Machine Learning
 Neural Networks
-AI Systems
+LLM Systems
+Agent Design
 Research Engineering
+Applied Mathematics
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 ### Products
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,tailwind&theme=dark"/>
-
-<br>
-
 Backend Architecture
 API Design
-Full Stack Development
+React
+FastAPI
+Node.js
 Developer Experience
 
 </td>
@@ -129,150 +117,109 @@ Developer Experience
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adixyaxo&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adixyaxo&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adixyaxo&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
+## Selected Work
 
 ### Project Crypt
 
-Cryptography-focused systems project.
+A cryptography-focused systems project exploring memory-level operations and low-level implementation techniques.
 
-* Pointer-driven architecture
-* Memory-level optimization
-* Encryption systems
-* C/C++ implementation
-* Performance-first design
-
-</td>
-
-<td width="50%" valign="top">
-
-### X-NCU
-
-Private university social network.
-
-* Authentication systems
-* Community platform
-* Feed architecture
-* Backend engineering
-* Full-stack implementation
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### SERA
-
-AI-powered Life Operating System.
-
-* Adaptive planning
-* Workflow automation
-* AI integrations
-* Decision support
-* Minimal interface philosophy
-
-</td>
-
-<td width="50%" valign="top">
-
-### 100 Mini Projects
-
-Public experimentation repository.
-
-* Algorithms
-* Automation
-* Utilities
-* Rapid prototyping
-* Continuous iteration
-
-</td>
-
-</tr>
-</table>
+What interests me most is not encryption itself, but the engineering discipline required to build reliable systems around it.
 
 ---
 
-## Research Interests
+### X-NCU
 
-<div align="center">
+A private university social network.
 
-Artificial Intelligence • Cryptography • HPC • Distributed Systems • Computational Mathematics • Secure Systems
+Built from scratch as an exercise in designing digital communities through systems thinking rather than feature accumulation.
 
-</div>
+---
+
+### SERA
+
+An AI-powered Life Operating System.
+
+An ongoing attempt to build software that helps transform intention into consistent action.
+
+---
+
+### 100 Mini Projects
+
+A public archive of experiments.
+
+Some are useful.
+Some are failures.
+All are lessons.
+
+---
+
+## Notes
+
+A few ideas that influence how I work:
+
+> Simplicity is not the absence of complexity.
+>
+> It is complexity brought under control.
 
 <br>
 
-<details>
-
-<summary><b>Currently Exploring</b></summary>
+> Every abstraction should justify its existence.
 
 <br>
+
+> Software should age gracefully.
+
+---
+
+## Research Log
+
+Currently exploring:
 
 * AI Infrastructure
-* Compiler Design
-* Computational Research
-* Human Computer Interaction
-* Advanced Mathematics
-* Performance Engineering
 * Distributed Computing
+* Secure Systems Design
+* Computational Mathematics
+* Compiler Theory
+* Human Computer Interaction
 
-</details>
+Future interests:
+
+* Computational Neuroscience
+* Formal Verification
+* Scientific Computing
 
 ---
 
 ## Digital Garden
 
-A growing collection of:
+A growing archive of:
 
 * Research Notes
 * Technical Writing
-* Open Source Work
+* Open Source Contributions
 * Experiments
-* Project Logs
-* Ideas Worth Revisiting
+* Design Documents
+* Long-Term Ideas
 
 ---
 
-## Tech Ecosystem
+## Technology
 
-<div align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,flask,fastapi,tailwind,linux,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git"/>
 
-</div>
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,tailwind"/>
+
+</p>
 
 ---
 
-## Connect
-
-<div align="center">
+## Network
 
 ### Social
 
@@ -308,42 +255,30 @@ A growing collection of:
 <img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 
-<br><br>
+---
 
 ### Portfolios
 
 <a href="https://your-main-portfolio.com">
-<img src="https://img.shields.io/badge/Main_Portfolio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
+<img src="https://img.shields.io/badge/Main-111111?style=for-the-badge">
 </a>
 
 <a href="https://your-dev-portfolio.com">
-<img src="https://img.shields.io/badge/Development-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Development-111111?style=for-the-badge">
 </a>
 
 <a href="https://your-research-portfolio.com">
-<img src="https://img.shields.io/badge/Research-111111?style=for-the-badge&logo=googlescholar&logoColor=white">
+<img src="https://img.shields.io/badge/Research-111111?style=for-the-badge">
 </a>
 
 <a href="https://your-opensource-portfolio.com">
-<img src="https://img.shields.io/badge/Open_Source-111111?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
+<img src="https://img.shields.io/badge/Open_Source-111111?style=for-the-badge">
 </a>
-
-</div>
 
 ---
 
-<div align="center">
+<div align="right">
 
-### Philosophy
-
-*"Depth over trends. Systems over shortcuts."*
-
-<br>
-
-<sub>
-
-Building systems, studying intelligence, and leaving useful artifacts behind.
-
-</sub>
+*Depth over trends.*
 
 </div>
