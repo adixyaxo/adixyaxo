@@ -1,0 +1,49 @@
+name: Generate Profile SVG
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "config/profile.json"
+      - "scripts/generate_profile.py"
+      - ".github/workflows/profile.yml"
+  schedule:
+    # Runs every day at 04:30 UTC
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Regenerate Profile SVGs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_profile.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.name  "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-dark.svg assets/profile-light.svg
+          git diff --staged --quiet || git commit -m "chore: regenerate profile SVGs [skip ci]"
+          git push

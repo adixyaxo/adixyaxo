@@ -1,0 +1,93 @@
+{
+  "github_username": "adixyaxo",
+  "name": "Aditya Dagar",
+  "title": "Systems Engineer",
+  "subtitle": "AI Engineer · Researcher · Builder",
+  "tagline": "I work at the intersection of computation, intelligence, and design.",
+  "philosophy": "Depth over trends.",
+  "location": "India",
+  "status": {
+    "focus": "Systems + AI",
+    "building": "SERA",
+    "learning": ["HPC", "Distributed Systems", "Mathematics"],
+    "reading": ["Papers", "Books", "Source Code"]
+  },
+  "current_direction": {
+    "headline": "Current Direction",
+    "body": "Building toward a deeper understanding of systems — whether they are made of memory addresses, distributed machines, neural networks, or people. I care less about frameworks and more about foundations.",
+    "interests": [
+      "Artificial Intelligence Systems",
+      "Systems Programming",
+      "Cryptography",
+      "High Performance Computing",
+      "Distributed Systems",
+      "Computational Research"
+    ]
+  },
+  "research_log": {
+    "headline": "Research Log",
+    "current": [
+      "AI Infrastructure",
+      "Distributed Computing",
+      "Secure Systems Design",
+      "Computational Mathematics",
+      "Compiler Theory",
+      "Human–Computer Interaction"
+    ],
+    "horizon": [
+      "Computational Neuroscience",
+      "Formal Verification",
+      "Scientific Computing"
+    ]
+  },
+  "projects": [
+    {
+      "id": "http-server-c",
+      "name": "HTTP/1.0 Server",
+      "lang": "C",
+      "description": "A minimal HTTP/1.0 server built from POSIX sockets. An exercise in understanding the protocol at the byte level — parsing raw requests, managing file descriptors, and building reliable I/O without abstraction.",
+      "tags": ["C", "POSIX", "Networking", "Systems"]
+    },
+    {
+      "id": "http-server-cpp",
+      "name": "Multithreaded HTTP/1.1",
+      "lang": "C++",
+      "description": "Extends the HTTP/1.0 work to concurrent connections using pthreads. Persistent connections, thread pools, and careful synchronization. Where systems programming meets performance engineering.",
+      "tags": ["C++", "pthreads", "HTTP/1.1", "Concurrency"]
+    },
+    {
+      "id": "sha256-c",
+      "name": "SHA-256",
+      "lang": "C",
+      "description": "A ground-up implementation of SHA-256 in C. The goal was not a working hash function — it was understanding why the algorithm is constructed the way it is. Cryptography as systems study.",
+      "tags": ["C", "Cryptography", "Algorithms"]
+    },
+    {
+      "id": "sera",
+      "name": "SERA",
+      "lang": "Python",
+      "description": "An AI-powered Life Operating System. An ongoing attempt to build software that transforms intention into consistent action. Architecture-first, model-agnostic.",
+      "tags": ["AI", "Python", "Systems Design"]
+    }
+  ],
+  "notes": [
+    "Simplicity is not the absence of complexity. It is complexity brought under control.",
+    "Every abstraction should justify its existence.",
+    "Software should age gracefully."
+  ],
+  "socials": {
+    "github": "https://github.com/adixyaxo",
+    "x": "https://x.com/adixyaxo",
+    "youtube": "https://youtube.com/@adixyaxo",
+    "linkedin": "https://linkedin.com/in/aditya-dagar"
+  },
+  "portfolio": {
+    "main": "https://adixyaxo.github.io",
+    "research": "https://adixyaxo.github.io/research"
+  },
+  "svg": {
+    "width": 860,
+    "font_mono": "\"JetBrains Mono\", \"Cascadia Code\", ui-monospace, \"SF Mono\", Menlo, monospace",
+    "font_sans": "-apple-system, \"SF Pro Text\", \"Helvetica Neue\", Arial, sans-serif"
+  }
+}

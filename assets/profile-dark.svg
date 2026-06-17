@@ -1,0 +1,296 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="860"
+  height="2016"
+  viewBox="0 0 860 2016"
+  role="img"
+  aria-label="GitHub profile of Aditya Dagar"
+>
+  <title>Aditya Dagar — Systems Engineer</title>
+  <defs>
+    <style>
+
+  @keyframes blink {
+    0%, 100% { opacity: 0.7; }
+    50%       { opacity: 0.0; }
+  }
+
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="2016" fill="#0A0A0A"/>
+
+  <!-- Blueprint grid -->
+  <line x1="48" y1="0" x2="48" y2="2016" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="302" y1="0" x2="302" y2="2016" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="557" y1="0" x2="557" y2="2016" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="0" x2="812" y2="2016" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="80" x2="860" y2="80" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="160" x2="860" y2="160" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="240" x2="860" y2="240" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="320" x2="860" y2="320" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="400" x2="860" y2="400" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="480" x2="860" y2="480" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="560" x2="860" y2="560" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="640" x2="860" y2="640" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="720" x2="860" y2="720" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="800" x2="860" y2="800" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="880" x2="860" y2="880" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="960" x2="860" y2="960" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1040" x2="860" y2="1040" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1120" x2="860" y2="1120" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1200" x2="860" y2="1200" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1280" x2="860" y2="1280" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1360" x2="860" y2="1360" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1440" x2="860" y2="1440" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1520" x2="860" y2="1520" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1600" x2="860" y2="1600" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1680" x2="860" y2="1680" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1760" x2="860" y2="1760" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1840" x2="860" y2="1840" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="1920" x2="860" y2="1920" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="0" y1="2000" x2="860" y2="2000" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="80" x2="52" y2="80" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="76" x2="48" y2="84" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="80" x2="816" y2="80" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="76" x2="812" y2="84" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="160" x2="52" y2="160" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="156" x2="48" y2="164" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="160" x2="816" y2="160" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="156" x2="812" y2="164" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="240" x2="52" y2="240" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="236" x2="48" y2="244" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="240" x2="816" y2="240" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="236" x2="812" y2="244" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="320" x2="52" y2="320" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="316" x2="48" y2="324" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="320" x2="816" y2="320" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="316" x2="812" y2="324" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="400" x2="52" y2="400" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="396" x2="48" y2="404" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="400" x2="816" y2="400" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="396" x2="812" y2="404" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="480" x2="52" y2="480" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="476" x2="48" y2="484" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="480" x2="816" y2="480" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="476" x2="812" y2="484" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="560" x2="52" y2="560" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="556" x2="48" y2="564" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="560" x2="816" y2="560" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="556" x2="812" y2="564" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="640" x2="52" y2="640" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="636" x2="48" y2="644" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="640" x2="816" y2="640" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="636" x2="812" y2="644" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="720" x2="52" y2="720" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="716" x2="48" y2="724" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="720" x2="816" y2="720" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="716" x2="812" y2="724" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="800" x2="52" y2="800" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="796" x2="48" y2="804" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="800" x2="816" y2="800" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="796" x2="812" y2="804" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="880" x2="52" y2="880" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="876" x2="48" y2="884" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="880" x2="816" y2="880" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="876" x2="812" y2="884" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="960" x2="52" y2="960" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="956" x2="48" y2="964" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="960" x2="816" y2="960" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="956" x2="812" y2="964" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1040" x2="52" y2="1040" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1036" x2="48" y2="1044" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1040" x2="816" y2="1040" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1036" x2="812" y2="1044" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1120" x2="52" y2="1120" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1116" x2="48" y2="1124" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1120" x2="816" y2="1120" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1116" x2="812" y2="1124" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1200" x2="52" y2="1200" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1196" x2="48" y2="1204" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1200" x2="816" y2="1200" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1196" x2="812" y2="1204" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1280" x2="52" y2="1280" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1276" x2="48" y2="1284" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1280" x2="816" y2="1280" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1276" x2="812" y2="1284" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1360" x2="52" y2="1360" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1356" x2="48" y2="1364" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1360" x2="816" y2="1360" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1356" x2="812" y2="1364" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1440" x2="52" y2="1440" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1436" x2="48" y2="1444" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1440" x2="816" y2="1440" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1436" x2="812" y2="1444" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1520" x2="52" y2="1520" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1516" x2="48" y2="1524" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1520" x2="816" y2="1520" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1516" x2="812" y2="1524" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1600" x2="52" y2="1600" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1596" x2="48" y2="1604" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1600" x2="816" y2="1600" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1596" x2="812" y2="1604" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1680" x2="52" y2="1680" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1676" x2="48" y2="1684" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1680" x2="816" y2="1680" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1676" x2="812" y2="1684" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1760" x2="52" y2="1760" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1756" x2="48" y2="1764" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1760" x2="816" y2="1760" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1756" x2="812" y2="1764" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1840" x2="52" y2="1840" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1836" x2="48" y2="1844" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1840" x2="816" y2="1840" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1836" x2="812" y2="1844" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="1920" x2="52" y2="1920" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1916" x2="48" y2="1924" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="1920" x2="816" y2="1920" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1916" x2="812" y2="1924" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="44" y1="2000" x2="52" y2="2000" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="48" y1="1996" x2="48" y2="2004" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="808" y1="2000" x2="816" y2="2000" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+  <line x1="812" y1="1996" x2="812" y2="2004" stroke="rgba(255,255,255,0.025)" stroke-width="0.5" opacity="1.0"/>
+
+  <!-- Content -->
+  <text x="48" y="48" fill="#7A7A7A" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >github.com/adixyaxo</text>
+  <text x="48" y="72" fill="#E8E8E8" font-size="28" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="-0.5px" text-anchor="start" opacity="1.0" font-style="normal">Aditya Dagar</text>
+  <text x="48" y="116" fill="#E8E8E8" font-size="14" font-weight="500" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Systems Engineer</text>
+  <text x="188" y="116" fill="#7A7A7A" font-size="14" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >·</text>
+  <text x="202" y="116" fill="#7A7A7A" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >AI Engineer · Researcher · Builder</text>
+  <text x="48" y="152" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="0.8" >I work at the intersection of computation, intelligence, and design.</text>
+  <line x1="48" y1="203" x2="812" y2="203" stroke="#1E1E1E" stroke-width="0.5" opacity="1.0"/>
+  <rect x="48" y="227" width="764" height="196" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="64" y="239" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >LOCATION</text>
+  <text x="144" y="239" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >India</text>
+  <text x="64" y="259" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >FOCUS</text>
+  <text x="144" y="259" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >Systems + AI</text>
+  <text x="64" y="279" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >BUILDING</text>
+  <text x="144" y="279" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >SERA</text>
+  <text x="64" y="299" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >LEARNING</text>
+  <text x="144" y="299" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >HPC</text>
+  <text x="144" y="319" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >Distributed Systems</text>
+  <text x="144" y="339" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >Mathematics</text>
+  <text x="64" y="359" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >READING</text>
+  <text x="144" y="359" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >Papers</text>
+  <text x="144" y="379" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >Books</text>
+  <text x="144" y="399" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="start" opacity="1.0" >Source Code</text>
+  <rect x="144" y="392" width="5" height="10" fill="#7A7A7A" opacity="0.7"><animate attributeName="opacity" values="0.7;0;0.7" dur="1.4s" repeatCount="indefinite"/></rect>
+  <line x1="48" y1="467" x2="812" y2="467" stroke="#1E1E1E" stroke-width="0.5" opacity="1.0"/>
+  <text x="48" y="499" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.12em" text-anchor="start" opacity="1.0" >CURRENT DIRECTION</text>
+  <text x="48" y="515" fill="#E8E8E8" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Building toward a deeper understanding of systems — whether they are made of</text>
+  <text x="48" y="536" fill="#E8E8E8" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >memory addresses, distributed machines, neural networks, or people. I care less</text>
+  <text x="48" y="557" fill="#E8E8E8" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >about frameworks and more about foundations.</text>
+  <text x="60" y="602" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Artificial Intelligence Systems</text>
+  <text x="48" y="602" fill="#7A7A7A" font-size="10" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >—</text>
+  <text x="60" y="621" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Systems Programming</text>
+  <text x="48" y="621" fill="#7A7A7A" font-size="10" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >—</text>
+  <text x="60" y="640" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Cryptography</text>
+  <text x="48" y="640" fill="#7A7A7A" font-size="10" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >—</text>
+  <text x="442" y="602" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >High Performance Computing</text>
+  <text x="430" y="602" fill="#7A7A7A" font-size="10" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >—</text>
+  <text x="442" y="621" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Distributed Systems</text>
+  <text x="430" y="621" fill="#7A7A7A" font-size="10" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >—</text>
+  <text x="442" y="640" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Computational Research</text>
+  <text x="430" y="640" fill="#7A7A7A" font-size="10" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >—</text>
+  <line x1="48" y1="691" x2="812" y2="691" stroke="#1E1E1E" stroke-width="0.5" opacity="1.0"/>
+  <text x="48" y="723" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.12em" text-anchor="start" opacity="1.0" >SELECTED WORK</text>
+  <text x="48" y="739" fill="#E8E8E8" font-size="14" font-weight="500" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >HTTP/1.0 Server</text>
+  <text x="812" y="739" fill="#7A7A7A" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="end" opacity="1.0" >C</text>
+  <text x="48" y="767" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >A minimal HTTP/1.0 server built from POSIX sockets. An exercise in understanding</text>
+  <text x="48" y="787" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >the protocol at the byte level — parsing raw requests, managing file descriptors,</text>
+  <text x="48" y="807" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >and building reliable I/O without abstraction.</text>
+  <rect x="48" y="823" width="22" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="56" y="838" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >C</text>
+  <rect x="74" y="823" width="47" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="82" y="838" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >POSIX</text>
+  <rect x="125" y="823" width="78" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="133" y="838" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >Networking</text>
+  <rect x="207" y="823" width="59" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="215" y="838" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >Systems</text>
+  <line x1="48" y1="859" x2="812" y2="859" stroke="#1E1E1E" stroke-width="0.5" opacity="0.5"/>
+  <text x="48" y="883" fill="#E8E8E8" font-size="14" font-weight="500" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Multithreaded HTTP/1.1</text>
+  <text x="812" y="883" fill="#7A7A7A" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="end" opacity="1.0" >C++</text>
+  <text x="48" y="911" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Extends the HTTP/1.0 work to concurrent connections using pthreads. Persistent</text>
+  <text x="48" y="931" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >connections, thread pools, and careful synchronization. Where systems programming</text>
+  <text x="48" y="951" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >meets performance engineering.</text>
+  <rect x="48" y="967" width="34" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="56" y="982" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >C++</text>
+  <rect x="86" y="967" width="65" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="94" y="982" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >pthreads</text>
+  <rect x="155" y="967" width="65" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="163" y="982" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >HTTP/1.1</text>
+  <rect x="224" y="967" width="84" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="232" y="982" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >Concurrency</text>
+  <line x1="48" y1="1003" x2="812" y2="1003" stroke="#1E1E1E" stroke-width="0.5" opacity="0.5"/>
+  <text x="48" y="1027" fill="#E8E8E8" font-size="14" font-weight="500" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >SHA-256</text>
+  <text x="812" y="1027" fill="#7A7A7A" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="end" opacity="1.0" >C</text>
+  <text x="48" y="1055" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >A ground-up implementation of SHA-256 in C. The goal was not a working hash</text>
+  <text x="48" y="1075" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >function — it was understanding why the algorithm is constructed the way it is.</text>
+  <text x="48" y="1095" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Cryptography as systems study.</text>
+  <rect x="48" y="1111" width="22" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="56" y="1126" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >C</text>
+  <rect x="74" y="1111" width="90" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="82" y="1126" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >Cryptography</text>
+  <rect x="168" y="1111" width="78" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="176" y="1126" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >Algorithms</text>
+  <line x1="48" y1="1147" x2="812" y2="1147" stroke="#1E1E1E" stroke-width="0.5" opacity="0.5"/>
+  <text x="48" y="1171" fill="#E8E8E8" font-size="14" font-weight="500" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >SERA</text>
+  <text x="812" y="1171" fill="#7A7A7A" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="end" opacity="1.0" >Python</text>
+  <text x="48" y="1199" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >An AI-powered Life Operating System. An ongoing attempt to build software that</text>
+  <text x="48" y="1219" fill="#7A7A7A" font-size="12" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >transforms intention into consistent action. Architecture-first, model-agnostic.</text>
+  <rect x="48" y="1235" width="28" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="56" y="1250" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >AI</text>
+  <rect x="80" y="1235" width="53" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="88" y="1250" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >Python</text>
+  <rect x="137" y="1235" width="102" height="19" fill="#141414" rx="0" opacity="1.0" stroke="#1E1E1E" stroke-width="0.5"/>
+  <text x="145" y="1250" fill="#7A7A7A" font-size="9" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.04em" text-anchor="start" opacity="1.0" >Systems Design</text>
+  <line x1="48" y1="1303" x2="812" y2="1303" stroke="#1E1E1E" stroke-width="0.5" opacity="1.0"/>
+  <text x="48" y="1335" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.12em" text-anchor="start" opacity="1.0" >RESEARCH LOG</text>
+  <text x="48" y="1351" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.06em" text-anchor="start" opacity="1.0" >Active</text>
+  <text x="430" y="1351" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.06em" text-anchor="start" opacity="1.0" >Horizon</text>
+  <text x="60" y="1374" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >AI Infrastructure</text>
+  <text x="48" y="1374" fill="#7A7A7A" font-size="10" font-weight="300" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="1.0" >→</text>
+  <text x="442" y="1374" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Computational Neuroscience</text>
+  <text x="430" y="1374" fill="#7A7A7A" font-size="10" font-weight="300" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="1.0" >→</text>
+  <text x="60" y="1394" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Distributed Computing</text>
+  <text x="48" y="1394" fill="#7A7A7A" font-size="10" font-weight="300" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="1.0" >→</text>
+  <text x="442" y="1394" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Formal Verification</text>
+  <text x="430" y="1394" fill="#7A7A7A" font-size="10" font-weight="300" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="1.0" >→</text>
+  <text x="60" y="1414" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Secure Systems Design</text>
+  <text x="48" y="1414" fill="#7A7A7A" font-size="10" font-weight="300" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="1.0" >→</text>
+  <text x="442" y="1414" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Scientific Computing</text>
+  <text x="430" y="1414" fill="#7A7A7A" font-size="10" font-weight="300" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="1.0" >→</text>
+  <text x="60" y="1434" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Computational Mathematics</text>
+  <text x="48" y="1434" fill="#7A7A7A" font-size="10" font-weight="300" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="1.0" >→</text>
+  <text x="60" y="1454" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Compiler Theory</text>
+  <text x="48" y="1454" fill="#7A7A7A" font-size="10" font-weight="300" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="1.0" >→</text>
+  <text x="60" y="1474" fill="#E8E8E8" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >Human–Computer Interaction</text>
+  <text x="48" y="1474" fill="#7A7A7A" font-size="10" font-weight="300" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="1.0" >→</text>
+  <line x1="48" y1="1526" x2="812" y2="1526" stroke="#1E1E1E" stroke-width="0.5" opacity="1.0"/>
+  <text x="48" y="1558" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.12em" text-anchor="start" opacity="1.0" >NOTES</text>
+  <text x="48" y="1574" fill="#1E1E1E" font-size="20" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >“</text>
+  <text x="64" y="1574" fill="#E8E8E8" font-size="12" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0.01em" text-anchor="start" opacity="0.85" >Simplicity is not the absence of complexity. It is complexity brought under control.</text>
+  <text x="48" y="1609" fill="#1E1E1E" font-size="20" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >“</text>
+  <text x="64" y="1609" fill="#E8E8E8" font-size="12" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0.01em" text-anchor="start" opacity="0.85" >Every abstraction should justify its existence.</text>
+  <text x="48" y="1644" fill="#1E1E1E" font-size="20" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0px" text-anchor="start" opacity="1.0" >“</text>
+  <text x="64" y="1644" fill="#E8E8E8" font-size="12" font-weight="300" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0.01em" text-anchor="start" opacity="0.85" >Software should age gracefully.</text>
+  <line x1="48" y1="1699" x2="812" y2="1699" stroke="#1E1E1E" stroke-width="0.5" opacity="1.0"/>
+  <text x="48" y="1731" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.12em" text-anchor="start" opacity="1.0" >NETWORK</text>
+  <text x="48" y="1747" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.06em" text-anchor="start" opacity="1.0" >GITHUB</text>
+  <text x="128" y="1747" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="0.6" >https://github.com/adixyaxo</text>
+  <text x="48" y="1768" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.06em" text-anchor="start" opacity="1.0" >X</text>
+  <text x="128" y="1768" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="0.6" >https://x.com/adixyaxo</text>
+  <text x="48" y="1789" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.06em" text-anchor="start" opacity="1.0" >YOUTUBE</text>
+  <text x="128" y="1789" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="0.6" >https://youtube.com/@adixyaxo</text>
+  <text x="48" y="1810" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.06em" text-anchor="start" opacity="1.0" >LINKEDIN</text>
+  <text x="128" y="1810" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="0.6" >https://linkedin.com/in/aditya-dagar</text>
+  <text x="48" y="1831" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.06em" text-anchor="start" opacity="1.0" >MAIN</text>
+  <text x="128" y="1831" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="0.6" >https://adixyaxo.github.io</text>
+  <text x="48" y="1852" fill="#7A7A7A" font-size="10" font-weight="500" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.06em" text-anchor="start" opacity="1.0" >RESEARCH</text>
+  <text x="128" y="1852" fill="#E8E8E8" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0px" text-anchor="start" opacity="0.6" >https://adixyaxo.github.io/research</text>
+  <line x1="48" y1="1905" x2="812" y2="1905" stroke="#1E1E1E" stroke-width="0.5" opacity="1.0"/>
+  <text x="812" y="1929" fill="#7A7A7A" font-size="10" font-weight="400" font-family="-apple-system, "SF Pro Text", "Helvetica Neue", Arial, sans-serif" letter-spacing="0.02em" text-anchor="end" opacity="0.6" >Depth over trends.</text>
+  <text x="812" y="1952" fill="#7A7A7A" font-size="10" font-weight="400" font-family=""JetBrains Mono", "Cascadia Code", ui-monospace, "SF Mono", Menlo, monospace" letter-spacing="0.01em" text-anchor="end" opacity="0.3" >generated 2026-06-17</text>
+</svg>
