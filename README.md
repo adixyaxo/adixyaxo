@@ -1,6 +1,6 @@
 <h1 align="center">Aditya Dagar</h1>
 
-<p justify-content="space-between" display="flex" >
+<p align="center" display="flex" >
   <img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846">
   <a align="left" href="https://wakatime.com/@561444bb-4f0f-414e-aadc-6965328d56d0"><img src="https://wakatime.com/badge/user/561444bb-4f0f-414e-aadc-6965328d56d0.svg?style=for-the-badge" alt="Total time coded since Jan 3 2026" /></a>
 </p>
