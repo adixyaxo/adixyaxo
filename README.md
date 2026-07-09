@@ -1,8 +1,8 @@
 <h1 align="center">Aditya Dagar</h1>
 
-<p align="center">
+<p align="space-between">
   <img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35846">
-  [![wakatime](https://wakatime.com/badge/user/561444bb-4f0f-414e-aadc-6965328d56d0.svg)](https://wakatime.com/@561444bb-4f0f-414e-aadc-6965328d56d0)
+  <a href="https://wakatime.com/@561444bb-4f0f-414e-aadc-6965328d56d0"><img src="https://wakatime.com/badge/user/561444bb-4f0f-414e-aadc-6965328d56d0.svg" alt="Total time coded since Jan 3 2026" /></a>
 </p>
 
 <p align="center">
